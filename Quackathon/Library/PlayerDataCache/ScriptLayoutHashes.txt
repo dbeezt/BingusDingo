@@ -112,6 +112,7 @@ bc68edb0af574bf79f9550ead8ebae5c UnityEngine.HoloLens.dll:UnityEngine.Audio.Audi
 463516d5b5fe8e67a0a24c48f2095b04 UnityEngine.HoloLens.dll:UnityEngine.EventSystems.HoloLensInputModule
 c5b77decb97ffc0c36e810b155d27dde Assembly-CSharp.dll:Tiled2Unity.TiledMap
 425a3e4d40749d352fc1b0166e259503 Assembly-CSharp.dll:.PlayerMovement
+4a08a50bdef485eb561cbf0209342905 Assembly-CSharp.dll:.NoiseLevel
 746f164a290f6b56b183410cc7a388b2 Assembly-CSharp.dll:Tiled2Unity.TiledInitialShaderProperties
 f149f24230a6358c2804c5fae71459a2 Assembly-CSharp.dll:Tiled2Unity.TileAnimator
 32e8fe00b63ed946490b898f6024a2f2 Facebook.Unity.Settings.dll:Facebook.Unity.Settings.FacebookSettings
