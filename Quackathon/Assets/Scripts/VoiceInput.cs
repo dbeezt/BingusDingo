@@ -9,13 +9,15 @@ public class VoiceInput : MonoBehaviour {
     public AudioSource audioSource;
     public string micName;
     public float sensitivity;
-    public float loudness = 0;
     public float lowerLimit;
     public float upperLimit;
     public float reMapVal;
-    public bool playing = false;
+    public string[] devices;
+
+    private float loudness = 0;
+    private bool playing = false;
     void Start () {
-        
+        devices = Microphone.devices;
         audioSource.clip = Microphone.Start(micName, true, 10, 44100);
         audioSource.loop = true;
         while (!(Microphone.GetPosition(null) > 0)) { }
@@ -44,6 +46,7 @@ public class VoiceInput : MonoBehaviour {
         loudness = GetAveragedVolume() * sensitivity;
         if (loudness < lowerLimit) {
             playing = false;
+            reMapVal = 0;
         } else {
             playing = true;
             reMapVal = Remap();
