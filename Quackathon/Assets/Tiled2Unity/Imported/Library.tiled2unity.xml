@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <!--Tiled2Unity generated xml data-->
 <!--Do not modify by hand-->
-<!--Last exported: 11/11/2017 14:51:19-->
+<!--Last exported: 11/11/2017 16:37:34-->
 <Tiled2Unity version="1.0.10.3">
   <AssignMaterial mesh="mesh_0001" material="tilesheet_complete" />
   <AssignMaterial mesh="mesh_0002" material="tilesheet_complete" />
@@ -102,6 +102,25 @@
     <GameObject name="Floorboards" x="0" y="0" z="0">
       <TileLayer opacity="1" offsetX="0" offsetY="0" />
       <GameObject name="tilesheet_complete" copy="mesh_0002" sortingLayerName="" sortingOrder="1" opacity="1" />
+    </GameObject>
+    <GameObject name="CollisionObj" x="0" y="0" z="0">
+      <ObjectLayer offsetX="0" offsetY="0" color="#ff808080" />
+      <GameObject name="RectangleObject" x="-22.6667" y="44" rotation="0" layer="">
+        <RectangleObjectComponent tmx-object-id="1" tmx-object-name="" tmx-object-type="" tmx-object-x="-22.6667" tmx-object-y="-44" tmx-object-width="1060" tmx-object-height="54.6667" tmx-object-rotation="0" />
+        <BoxCollider2D width="1060" height="54.6667" />
+      </GameObject>
+      <GameObject name="RectangleObject" x="-30.6667" y="42.6667" rotation="0" layer="">
+        <RectangleObjectComponent tmx-object-id="7" tmx-object-name="" tmx-object-type="" tmx-object-x="-30.6667" tmx-object-y="-42.6667" tmx-object-width="42.6667" tmx-object-height="796" tmx-object-rotation="0" />
+        <BoxCollider2D width="42.6667" height="796" />
+      </GameObject>
+      <GameObject name="RectangleObject" x="1010.67" y="-5.33333" rotation="0" layer="">
+        <RectangleObjectComponent tmx-object-id="4" tmx-object-name="" tmx-object-type="" tmx-object-x="1010.67" tmx-object-y="5.33333" tmx-object-width="26.6667" tmx-object-height="776" tmx-object-rotation="0" />
+        <BoxCollider2D width="26.6667" height="776" />
+      </GameObject>
+      <GameObject name="RectangleObject" x="-30.6667" y="-752" rotation="0" layer="">
+        <RectangleObjectComponent tmx-object-id="6" tmx-object-name="" tmx-object-type="" tmx-object-x="-30.6667" tmx-object-y="752" tmx-object-width="1069.33" tmx-object-height="30.6667" tmx-object-rotation="0" />
+        <BoxCollider2D width="1069.33" height="30.6667" />
+      </GameObject>
     </GameObject>
     <GameObject name="Portal" x="0" y="0" z="0">
       <TileLayer opacity="1" offsetX="0" offsetY="0" />
