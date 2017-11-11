@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/movementTest.unity
+=======
+- path: Assets/Scenes/Library1.unity
+>>>>>>> 4843934fea2e637f8b94817520368e49515d9403
   isLoaded: 1
   isActive: 1
