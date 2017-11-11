@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <map version="1.0" orientation="orthogonal" renderorder="right-down" width="32" height="24" tilewidth="32" tileheight="32" nextobjectid="1">
  <tileset firstgid="1" name="tilesheet_complete" tilewidth="32" tileheight="32" tilecount="2160" columns="54">
-  <image source="../TopDownAssets/Env/Tilesheet/tilesheet_complete.png" width="1728" height="1280"/>
+  <image source="../../TopDownAssets/Env/Tilesheet/tilesheet_complete.png" width="1728" height="1280"/>
   <tile id="432">
    <objectgroup draworder="index">
     <object id="2" x="0" y="0" width="31" height="3"/>
@@ -131,10 +131,10 @@
   </tile>
  </tileset>
  <tileset firstgid="2161" name="platformerPack_industrial_tilesheet" tilewidth="32" tileheight="32" tilecount="510" columns="30">
-  <image source="../TopDownAssets/Misc/Tilesheet/platformerPack_industrial_tilesheet.png" width="980" height="560"/>
+  <image source="../../TopDownAssets/Misc/Tilesheet/platformerPack_industrial_tilesheet.png" width="980" height="560"/>
  </tileset>
  <tileset firstgid="2671" name="house_inside" tilewidth="32" tileheight="32" tilecount="224" columns="16">
-  <image source="../TopDownAssets/Misc/Tilesheet/house_inside.png" width="512" height="448"/>
+  <image source="../../TopDownAssets/Misc/Tilesheet/house_inside.png" width="512" height="448"/>
   <tile id="35">
    <objectgroup draworder="index">
     <object id="1" x="6" y="-1" width="25" height="32"/>
