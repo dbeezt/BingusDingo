@@ -1,12 +1,24 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quackathon", "Quackathon.csproj", "{ABA341A4-F514-7D5A-A4C8-30858D9BB6AE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Quackathon.Editor", "Quackathon.Editor.csproj", "{935C9EDC-5000-DA89-E131-E3B2B4C2EEFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABA341A4-F514-7D5A-A4C8-30858D9BB6AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABA341A4-F514-7D5A-A4C8-30858D9BB6AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABA341A4-F514-7D5A-A4C8-30858D9BB6AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABA341A4-F514-7D5A-A4C8-30858D9BB6AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{935C9EDC-5000-DA89-E131-E3B2B4C2EEFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{935C9EDC-5000-DA89-E131-E3B2B4C2EEFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{935C9EDC-5000-DA89-E131-E3B2B4C2EEFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{935C9EDC-5000-DA89-E131-E3B2B4C2EEFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
