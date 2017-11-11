@@ -23,12 +23,13 @@ public class PlayerMovement : MonoBehaviour {
         rotate= inputs[0].reMapVal;
         push = inputs[1].reMapVal;
 
-        if (rotate != 0) {
-            // var up = new Vector2(transform.up.x, transform.up.y);
+        if (push != 0 && rotate != 0) {
+            body2D.AddRelativeForce(new Vector2(push * moveSpeed, 0), ForceMode2D.Force);
+        } else if (rotate != 0) {
             body2D.AddTorque(rotate * moveSpeed);
         }
-        if (push != 0) {
-            body2D.AddRelativeForce(new Vector2(push * moveSpeed, 0), ForceMode2D.Force);
+        else if (push != 0) {
+            body2D.AddTorque(-push * moveSpeed);
         }
     }
 }
