@@ -12,16 +12,21 @@ Prefab:
   m_RootGameObject: {fileID: 1566864065788274}
   m_IsPrefabParent: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1067462947742426
 =======
 --- !u!1 &1045449321514026
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1068003027441788
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4190857230495014}
   - component: {fileID: 114141095045113374}
@@ -31,24 +36,36 @@ GameObject:
   - component: {fileID: 114194915456114206}
   - component: {fileID: 61284120724116070}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4213620439598688}
+  - component: {fileID: 33813063571314644}
+  - component: {fileID: 23562712285616978}
+  - component: {fileID: 114217967136501254}
+  - component: {fileID: 114467932866457644}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Layer: 0
-  m_Name: RectangleObject
+  m_Name: house_inside
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1102169128710366
 =======
 --- !u!1 &1064207376753702
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1089018807499716
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
-  m_ObjectHideFlags: 0
+  m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4286771634079274}
   - component: {fileID: 114899937588493764}
@@ -59,6 +76,47 @@ GameObject:
   - component: {fileID: 114642700222653226}
   - component: {fileID: 114614320532185324}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4592003963803352}
+  - component: {fileID: 33253579141958808}
+  - component: {fileID: 23270457766972104}
+  - component: {fileID: 114074555336145722}
+  - component: {fileID: 114734509005105238}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
+  m_Layer: 0
+  m_Name: tilesheet_complete
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+--- !u!1 &1117484500808332
+=======
+--- !u!1 &1099846095433878
+>>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1102169128710366
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+<<<<<<< HEAD
+<<<<<<< HEAD
+  - component: {fileID: 4978629529301336}
+  - component: {fileID: 114087611034750538}
+=======
+  - component: {fileID: 4977777270582970}
+  - component: {fileID: 114436903160164406}
+>>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4286771634079274}
+  - component: {fileID: 114899937588493764}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Layer: 0
   m_Name: Bookshelves
   m_TagString: Untagged
@@ -67,41 +125,21 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
---- !u!1 &1117484500808332
-=======
---- !u!1 &1099846095433878
->>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
-GameObject:
-  m_ObjectHideFlags: 0
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-  serializedVersion: 5
-  m_Component:
-<<<<<<< HEAD
-  - component: {fileID: 4978629529301336}
-  - component: {fileID: 114087611034750538}
-=======
-  - component: {fileID: 4977777270582970}
-  - component: {fileID: 114436903160164406}
->>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
-  m_Layer: 0
-  m_Name: Floorboards
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
 <<<<<<< HEAD
 --- !u!1 &1134527845661046
 =======
 --- !u!1 &1145899664608740
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1107267457361646
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4740130447791130}
   - component: {fileID: 60382007172745772}
@@ -109,6 +147,10 @@ GameObject:
   - component: {fileID: 4384003479001166}
   - component: {fileID: 114048280639310352}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4725991432661154}
+  - component: {fileID: 60676149458666438}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Layer: 0
   m_Name: ExteriorCollision
   m_TagString: Untagged
@@ -116,6 +158,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1148301378822106
 =======
@@ -141,18 +184,19 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 --- !u!1 &1161435968513592
+=======
+--- !u!1 &1117484500808332
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
-  m_ObjectHideFlags: 1
+  m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
-  - component: {fileID: 4809438720830862}
-  - component: {fileID: 33674765557292980}
-  - component: {fileID: 23550170791463384}
-  - component: {fileID: 114465429943399612}
-  - component: {fileID: 114114296129631808}
+  - component: {fileID: 4978629529301336}
+  - component: {fileID: 114087611034750538}
   m_Layer: 0
+<<<<<<< HEAD
   m_Name: tilesheet_complete
 =======
   - component: {fileID: 4911637263024998}
@@ -160,6 +204,9 @@ GameObject:
   m_Layer: 0
   m_Name: ExteriorWall
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_Name: Floorboards
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -183,16 +230,21 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1187151397529972
 =======
 --- !u!1 &1242214527514018
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1218440152784162
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4016573321880378}
   - component: {fileID: 33603926994076438}
@@ -206,6 +258,13 @@ GameObject:
   - component: {fileID: 114622952120257804}
   - component: {fileID: 114252457339585442}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4680967736049998}
+  - component: {fileID: 33789766241383516}
+  - component: {fileID: 23842510598066636}
+  - component: {fileID: 114572589227008486}
+  - component: {fileID: 114854497399592242}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Layer: 0
   m_Name: house_inside
   m_TagString: Untagged
@@ -263,6 +322,7 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1350665940094814
 GameObject:
   m_ObjectHideFlags: 1
@@ -284,6 +344,9 @@ GameObject:
 =======
 --- !u!1 &1466582327254312
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1353572818093832
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
@@ -291,12 +354,17 @@ GameObject:
   serializedVersion: 5
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 4024750090425306}
   - component: {fileID: 60638092068544024}
 =======
   - component: {fileID: 4388269800571272}
   - component: {fileID: 114959702153451666}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4746091041360262}
+  - component: {fileID: 60625278043216972}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Layer: 0
   m_Name: CollisionObj
   m_TagString: Untagged
@@ -305,16 +373,21 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1457755799338002
 =======
 --- !u!1 &1486473734851732
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1364489836070118
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4165688399888874}
   - component: {fileID: 60835300161123876}
@@ -325,24 +398,36 @@ GameObject:
   - component: {fileID: 114863030569564236}
   - component: {fileID: 114764677890825998}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4270152908356340}
+  - component: {fileID: 33291006465813712}
+  - component: {fileID: 23045241889200928}
+  - component: {fileID: 114824129929694164}
+  - component: {fileID: 114122619008733276}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Layer: 0
-  m_Name: Collision
+  m_Name: tilesheet_complete
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1478442482138240
 =======
 --- !u!1 &1496923757341280
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1403160146109516
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4829632934464260}
   - component: {fileID: 114621822026217558}
@@ -387,22 +472,36 @@ GameObject:
   m_Layer: 0
   m_Name: Window
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4711654531966438}
+  - component: {fileID: 33208987580149714}
+  - component: {fileID: 23650132810304652}
+  - component: {fileID: 114946265389768152}
+  - component: {fileID: 114442318854896926}
+  m_Layer: 0
+  m_Name: tilesheet_complete
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1486312352533544
 =======
 --- !u!1 &1576506543136292
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1465654116489608
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4681193134630712}
   - component: {fileID: 33244798628379482}
@@ -416,6 +515,13 @@ GameObject:
   - component: {fileID: 114069893098529476}
   - component: {fileID: 114775402203806574}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4277028099816748}
+  - component: {fileID: 33027252833359884}
+  - component: {fileID: 23482185674902802}
+  - component: {fileID: 114934005203874648}
+  - component: {fileID: 114392226623812014}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Layer: 0
   m_Name: tilesheet_complete
   m_TagString: Untagged
@@ -423,6 +529,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1487296099803716
 =======
@@ -460,6 +567,9 @@ GameObject:
   m_IsActive: 1
 --- !u!1 &1669754161547018
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1495462419828076
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -467,12 +577,17 @@ GameObject:
   serializedVersion: 5
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 4478182962352912}
   - component: {fileID: 60261621526068474}
 =======
   - component: {fileID: 4633152905600714}
   - component: {fileID: 60912809188546988}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4438562659069680}
+  - component: {fileID: 60795888886476174}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Layer: 0
   m_Name: Collision
   m_TagString: Untagged
@@ -481,16 +596,21 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1523625216897802
 =======
 --- !u!1 &1681024829983976
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1524803156176550
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4842923043559652}
   - component: {fileID: 114868399790854948}
@@ -502,18 +622,29 @@ GameObject:
   - component: {fileID: 114010042477267572}
   - component: {fileID: 114031711047412578}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4781429383752418}
+  - component: {fileID: 33436721493089264}
+  - component: {fileID: 23660330982430748}
+  - component: {fileID: 114540233734429532}
+  - component: {fileID: 114303844837291390}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Layer: 0
-  m_Name: RectangleObject
+  m_Name: house_inside
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1543668785709800
 =======
 --- !u!1 &1719160834185146
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1583938632864176
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
@@ -521,12 +652,17 @@ GameObject:
   serializedVersion: 5
   m_Component:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - component: {fileID: 4876457883186874}
   - component: {fileID: 60888245902457512}
 =======
   - component: {fileID: 4805213739544102}
   - component: {fileID: 60197717629866524}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4759494422474168}
+  - component: {fileID: 60103540355009886}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Layer: 0
   m_Name: Collision
   m_TagString: Untagged
@@ -534,6 +670,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1564025308800066
 GameObject:
@@ -555,12 +692,16 @@ GameObject:
 =======
 --- !u!1 &1830866329018082
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1593645195572412
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4400291064348230}
   - component: {fileID: 33742881813591736}
@@ -571,8 +712,12 @@ GameObject:
   - component: {fileID: 4064537390188178}
   - component: {fileID: 60423379025720464}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4654620889749774}
+  - component: {fileID: 60206008578838066}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Layer: 0
-  m_Name: house_inside
+  m_Name: Collision
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -597,6 +742,7 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &1637343923710668
 =======
@@ -632,12 +778,16 @@ GameObject:
 =======
 --- !u!1 &1914320678484988
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1648137549834380
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4306520609394050}
   - component: {fileID: 33054647250664560}
@@ -650,22 +800,36 @@ GameObject:
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
   m_Layer: 0
   m_Name: Collision
+=======
+  - component: {fileID: 4674052755264756}
+  - component: {fileID: 33382055949777730}
+  - component: {fileID: 23409476879874252}
+  - component: {fileID: 114008457926251132}
+  - component: {fileID: 114745013971549068}
+  m_Layer: 0
+  m_Name: house_inside
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1679943936792312
 =======
 --- !u!1 &1932628327756218
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!1 &1656157799445842
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - component: {fileID: 4116269156875164}
   - component: {fileID: 33893156268298628}
@@ -676,6 +840,13 @@ GameObject:
   - component: {fileID: 4054234365833774}
   - component: {fileID: 60450471066080474}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - component: {fileID: 4312838789186400}
+  - component: {fileID: 33595307165312612}
+  - component: {fileID: 23667704632981214}
+  - component: {fileID: 114579182833390206}
+  - component: {fileID: 114307819862642280}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Layer: 0
   m_Name: tilesheet_complete
   m_TagString: Untagged
@@ -683,20 +854,17 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!1 &1804514641702838
+--- !u!1 &1664118790225798
 GameObject:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
   serializedVersion: 5
   m_Component:
-  - component: {fileID: 4808206846901868}
-  - component: {fileID: 33031032023960616}
-  - component: {fileID: 23029542968477580}
-  - component: {fileID: 114797568844308474}
-  - component: {fileID: 114327266479942642}
+  - component: {fileID: 4376284108769548}
+  - component: {fileID: 60723003349354842}
   m_Layer: 0
-  m_Name: tilesheet_complete
+  m_Name: Collision
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -722,6 +890,7 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &1871790253332322
 GameObject:
   m_ObjectHideFlags: 1
@@ -741,6 +910,8 @@ GameObject:
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
+=======
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 --- !u!1 &1940805370966740
 =======
 --- !u!1 &1985928739490376
@@ -797,6 +968,7 @@ GameObject:
   m_StaticEditorFlags: 0
   m_IsActive: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!4 &4016573321880378
 Transform:
   m_ObjectHideFlags: 1
@@ -823,6 +995,8 @@ Transform:
   m_Father: {fileID: 4380892397258052}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 --- !u!4 &4082713395167916
 =======
 --- !u!4 &4054234365833774
@@ -839,7 +1013,6 @@ Transform:
   m_Children:
   - {fileID: 4724276711795110}
   - {fileID: 4978629529301336}
-  - {fileID: 4163422439715120}
   - {fileID: 4970539195535324}
   - {fileID: 4286771634079274}
   - {fileID: 4307984604573484}
@@ -850,6 +1023,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!4 &4116269156875164
 =======
   m_Children: []
@@ -857,10 +1031,14 @@ Transform:
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4058033611639250
+=======
+--- !u!4 &4213620439598688
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1985928739490376}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -22.6667, y: 44, z: 0}
@@ -880,10 +1058,14 @@ Transform:
 =======
   m_GameObject: {fileID: 1830866329018082}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1068003027441788}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Father: {fileID: 4380892397258052}
   m_RootOrder: 0
@@ -895,27 +1077,44 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4065012845442490
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_Father: {fileID: 4251443086401440}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4251443086401440
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1564025308800066}
 =======
   m_GameObject: {fileID: 1464639789059662}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1287703542420792}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 4829632934464260}
   - {fileID: 4964596552187202}
   - {fileID: 4842923043559652}
   - {fileID: 4190857230495014}
+=======
+  - {fileID: 4213620439598688}
+  - {fileID: 4592003963803352}
+  - {fileID: 4725991432661154}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Father: {fileID: 4082713395167916}
-  m_RootOrder: 2
+  m_RootOrder: 5
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!4 &4165688399888874
 =======
   - {fileID: 4997558368639334}
@@ -926,15 +1125,22 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4142103040268574
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!4 &4270152908356340
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1457755799338002}
 =======
   m_GameObject: {fileID: 1998927631120190}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1364489836070118}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
@@ -954,6 +1160,7 @@ Transform:
   m_LocalPosition: {x: -30.6667, y: -752, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Father: {fileID: 4286771634079274}
   m_RootOrder: 1
@@ -977,20 +1184,29 @@ Transform:
   m_Children: []
   m_Father: {fileID: 4163422439715120}
   m_RootOrder: 3
+=======
+  m_Father: {fileID: 4970539195535324}
+  m_RootOrder: 0
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &4249489959732458
+--- !u!4 &4277028099816748
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
   m_GameObject: {fileID: 1637343923710668}
 =======
   m_GameObject: {fileID: 1576506543136292}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1465654116489608}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Father: {fileID: 4251443086401440}
   m_RootOrder: 2
@@ -1002,22 +1218,32 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4276322697212390
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_Father: {fileID: 4978629529301336}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4286771634079274
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1287703542420792}
+=======
+  m_GameObject: {fileID: 1102169128710366}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 4921342475363624}
-  - {fileID: 4809438720830862}
-  - {fileID: 4249489959732458}
+  - {fileID: 4781429383752418}
+  - {fileID: 4376284108769548}
   m_Father: {fileID: 4082713395167916}
-  m_RootOrder: 6
+  m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!4 &4286771634079274
 =======
   m_GameObject: {fileID: 1914320678484988}
@@ -1030,21 +1256,29 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4294108951641314
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!4 &4307984604573484
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1102169128710366}
+=======
+  m_GameObject: {fileID: 1287353511667908}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
-  - {fileID: 4400291064348230}
-  - {fileID: 4165688399888874}
+  - {fileID: 4674052755264756}
+  - {fileID: 4654620889749774}
   m_Father: {fileID: 4082713395167916}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!4 &4306520609394050
 =======
   m_GameObject: {fileID: 1876120745599290}
@@ -1057,19 +1291,27 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4320338970480988
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!4 &4312838789186400
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1670047293502408}
 =======
   m_GameObject: {fileID: 1496923757341280}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1656157799445842}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Father: {fileID: 4494565578992266}
   m_RootOrder: 0
@@ -1081,10 +1323,17 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4348413624454876
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_Father: {fileID: 4724276711795110}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4376284108769548
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1287353511667908}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
@@ -1104,6 +1353,15 @@ Transform:
   m_Father: {fileID: 4557580962633092}
   m_RootOrder: 0
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1664118790225798}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 4286771634079274}
+  m_RootOrder: 1
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4384003479001166
 Transform:
@@ -1115,6 +1373,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 4116269156875164}
   - {fileID: 4024750090425306}
@@ -1142,18 +1401,24 @@ Transform:
   m_Children: []
   m_Father: {fileID: 4286771634079274}
   m_RootOrder: 0
+=======
+  - {fileID: 4711654531966438}
+  - {fileID: 4438562659069680}
+  m_Father: {fileID: 4082713395167916}
+  m_RootOrder: 7
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!4 &4478182962352912
+--- !u!4 &4438562659069680
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1487296099803716}
+  m_GameObject: {fileID: 1495462419828076}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 4494565578992266}
+  m_Father: {fileID: 4380892397258052}
   m_RootOrder: 1
 =======
   m_GameObject: {fileID: 1466582327254312}
@@ -1180,11 +1445,17 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 4306520609394050}
   - {fileID: 4478182962352912}
+=======
+  - {fileID: 4680967736049998}
+  - {fileID: 4746091041360262}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Father: {fileID: 4082713395167916}
-  m_RootOrder: 9
+  m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!4 &4645463185525206
 =======
   - {fileID: 4509516494757406}
@@ -1193,19 +1464,27 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4509516494757406
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!4 &4592003963803352
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1148301378822106}
 =======
   m_GameObject: {fileID: 1900401731004224}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1089018807499716}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Father: {fileID: 4307984604573484}
   m_RootOrder: 0
@@ -1217,19 +1496,30 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4557580962633092
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_Father: {fileID: 4251443086401440}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4654620889749774
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1486312352533544}
+=======
+  m_GameObject: {fileID: 1593645195572412}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 4970539195535324}
-  m_RootOrder: 0
+  m_Father: {fileID: 4307984604573484}
+  m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!4 &4724276711795110
 =======
   m_GameObject: {fileID: 1661685377501010}
@@ -1244,21 +1534,27 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4563369702210742
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!4 &4674052755264756
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1988973720584962}
+=======
+  m_GameObject: {fileID: 1648137549834380}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children:
-  - {fileID: 4808206846901868}
-  - {fileID: 4740130447791130}
-  m_Father: {fileID: 4082713395167916}
+  m_Children: []
+  m_Father: {fileID: 4307984604573484}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!4 &4740130447791130
 =======
   m_GameObject: {fileID: 1973967341177408}
@@ -1271,19 +1567,27 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4599408032311024
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!4 &4680967736049998
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1134527845661046}
 =======
   m_GameObject: {fileID: 1998586343478500}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1218440152784162}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Father: {fileID: 4724276711795110}
   m_RootOrder: 1
@@ -1295,19 +1599,30 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4633152905600714
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_Father: {fileID: 4494565578992266}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4711654531966438
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1804514641702838}
 =======
   m_GameObject: {fileID: 1669754161547018}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1403160146109516}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Father: {fileID: 4724276711795110}
   m_RootOrder: 0
@@ -1319,10 +1634,17 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4692900032423406
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_Father: {fileID: 4380892397258052}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4724276711795110
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1161435968513592}
 =======
@@ -1343,19 +1665,37 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4724280083439248
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1988973720584962}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children:
+  - {fileID: 4312838789186400}
+  - {fileID: 4759494422474168}
+  m_Father: {fileID: 4082713395167916}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4725991432661154
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1478442482138240}
+=======
+  m_GameObject: {fileID: 1107267457361646}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -30.6667, y: 29.3333, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
-  m_Father: {fileID: 4163422439715120}
-  m_RootOrder: 0
+  m_Father: {fileID: 4251443086401440}
+  m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!4 &4842923043559652
 =======
   m_GameObject: {fileID: 1170296803278592}
@@ -1368,19 +1708,27 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4805213739544102
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!4 &4746091041360262
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1523625216897802}
 =======
   m_GameObject: {fileID: 1719160834185146}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1353572818093832}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: 1009.33, y: 29.3333, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Father: {fileID: 4163422439715120}
   m_RootOrder: 2
@@ -1392,19 +1740,30 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4810315069282386
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_Father: {fileID: 4494565578992266}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4759494422474168
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1543668785709800}
 =======
   m_GameObject: {fileID: 1486473734851732}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1583938632864176}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Father: {fileID: 4307984604573484}
   m_RootOrder: 1
@@ -1416,19 +1775,30 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4830448869697224
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_Father: {fileID: 4724276711795110}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!4 &4781429383752418
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 Transform:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1871790253332322}
 =======
   m_GameObject: {fileID: 1325518681504730}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1524803156176550}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: -30.6667, y: 42.6667, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Father: {fileID: 4251443086401440}
 =======
@@ -1457,6 +1827,9 @@ Transform:
   - {fileID: 4911637263024998}
   m_Father: {fileID: 0}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_Father: {fileID: 4286771634079274}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4911637263024998
@@ -1486,6 +1859,7 @@ Transform:
   m_Children: []
 <<<<<<< HEAD
   m_Father: {fileID: 4082713395167916}
+<<<<<<< HEAD
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4964596552187202
@@ -1504,6 +1878,9 @@ Transform:
   m_Father: {fileID: 4973695490348326}
   m_RootOrder: 0
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_RootOrder: 6
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4973695490348326
 Transform:
@@ -1516,6 +1893,7 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
 <<<<<<< HEAD
+<<<<<<< HEAD
   - {fileID: 4681193134630712}
   m_Father: {fileID: 4082713395167916}
 =======
@@ -1523,6 +1901,11 @@ Transform:
   m_Father: {fileID: 4837143246627870}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
   m_RootOrder: 3
+=======
+  - {fileID: 4270152908356340}
+  m_Father: {fileID: 4082713395167916}
+  m_RootOrder: 2
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!4 &4977777270582970
 Transform:
@@ -1534,6 +1917,7 @@ Transform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - {fileID: 4016573321880378}
   m_Father: {fileID: 4082713395167916}
@@ -1561,15 +1945,26 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!23 &23070755479793666
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  - {fileID: 4277028099816748}
+  m_Father: {fileID: 4082713395167916}
+  m_RootOrder: 1
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!23 &23045241889200928
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1148301378822106}
 =======
   m_GameObject: {fileID: 1973967341177408}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1364489836070118}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -1577,7 +1972,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2829154e0f32f5c44afa8f3fcaf7dc74, type: 2}
+  - {fileID: 2100000, guid: 6311f41b271c5fc42a1b630404e6902c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1595,6 +1990,7 @@ MeshRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_SortingOrder: 4
 --- !u!23 &23029542968477580
@@ -1602,15 +1998,23 @@ MeshRenderer:
   m_SortingOrder: 0
 --- !u!23 &23202484363965484
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_SortingOrder: 2
+--- !u!23 &23270457766972104
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1804514641702838}
 =======
   m_GameObject: {fileID: 1242214527514018}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1089018807499716}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -1636,6 +2040,7 @@ MeshRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_SortingOrder: 0
 --- !u!23 &23031857684263864
@@ -1643,15 +2048,23 @@ MeshRenderer:
   m_SortingOrder: 5
 --- !u!23 &23602362058016038
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_SortingOrder: 5
+--- !u!23 &23409476879874252
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1566519915279974}
 =======
   m_GameObject: {fileID: 1900401731004224}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1648137549834380}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -1677,6 +2090,7 @@ MeshRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_SortingOrder: 3
 --- !u!23 &23050642620603712
@@ -1684,15 +2098,23 @@ MeshRenderer:
   m_SortingOrder: 1
 --- !u!23 &23705427790165302
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_SortingOrder: 4
+--- !u!23 &23482185674902802
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1670047293502408}
 =======
   m_GameObject: {fileID: 1876120745599290}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1465654116489608}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -1718,6 +2140,7 @@ MeshRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_SortingOrder: 8
 --- !u!23 &23135458726699044
@@ -1725,15 +2148,23 @@ MeshRenderer:
   m_SortingOrder: 5
 --- !u!23 &23743509724976900
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_SortingOrder: 1
+--- !u!23 &23562712285616978
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1486312352533544}
 =======
   m_GameObject: {fileID: 1681024829983976}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1068003027441788}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -1741,7 +2172,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 0
   m_Materials:
-  - {fileID: 2100000, guid: 6311f41b271c5fc42a1b630404e6902c, type: 2}
+  - {fileID: 2100000, guid: 2829154e0f32f5c44afa8f3fcaf7dc74, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1759,6 +2190,7 @@ MeshRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_SortingOrder: 2
 --- !u!23 &23255198474785340
@@ -1766,15 +2198,23 @@ MeshRenderer:
   m_SortingOrder: 4
 --- !u!23 &23836891048100758
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_SortingOrder: 5
+--- !u!23 &23650132810304652
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1871790253332322}
 =======
   m_GameObject: {fileID: 1486473734851732}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1403160146109516}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -1782,7 +2222,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 0
   m_Materials:
-  - {fileID: 2100000, guid: 2829154e0f32f5c44afa8f3fcaf7dc74, type: 2}
+  - {fileID: 2100000, guid: 6311f41b271c5fc42a1b630404e6902c, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1800,6 +2240,7 @@ MeshRenderer:
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 0
   m_SortingLayer: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_SortingOrder: 5
 --- !u!23 &23527260360974780
@@ -1807,96 +2248,23 @@ MeshRenderer:
   m_SortingOrder: 8
 --- !u!23 &23912677280452080
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_SortingOrder: 7
+--- !u!23 &23660330982430748
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshRenderer:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1679943936792312}
 =======
   m_GameObject: {fileID: 1576506543136292}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 0
-  m_Materials:
-  - {fileID: 2100000, guid: 6311f41b271c5fc42a1b630404e6902c, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 7
-<<<<<<< HEAD
---- !u!23 &23550170791463384
 =======
---- !u!23 &23961194965370476
->>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
-MeshRenderer:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-<<<<<<< HEAD
-  m_GameObject: {fileID: 1161435968513592}
-=======
-  m_GameObject: {fileID: 1064207376753702}
->>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
-  m_Enabled: 1
-  m_CastShadows: 0
-  m_ReceiveShadows: 0
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 0
-  m_Materials:
-  - {fileID: 2100000, guid: 6311f41b271c5fc42a1b630404e6902c, type: 2}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-<<<<<<< HEAD
-  m_SortingOrder: 5
---- !u!23 &23851764387991886
-=======
-  m_SortingOrder: 2
---- !u!23 &23979890709551908
->>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
-MeshRenderer:
-  m_ObjectHideFlags: 1
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 100100000}
-<<<<<<< HEAD
-  m_GameObject: {fileID: 1187151397529972}
-=======
-  m_GameObject: {fileID: 1998586343478500}
->>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+  m_GameObject: {fileID: 1524803156176550}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_CastShadows: 0
   m_ReceiveShadows: 0
@@ -1923,16 +2291,121 @@ MeshRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
 <<<<<<< HEAD
+  m_SortingOrder: 7
+<<<<<<< HEAD
+--- !u!23 &23550170791463384
+=======
+--- !u!23 &23961194965370476
+>>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_SortingOrder: 3
+--- !u!23 &23667704632981214
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1161435968513592}
+=======
+  m_GameObject: {fileID: 1064207376753702}
+>>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1656157799445842}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 6311f41b271c5fc42a1b630404e6902c, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_SortingOrder: 5
+--- !u!23 &23851764387991886
+=======
+  m_SortingOrder: 2
+--- !u!23 &23979890709551908
+>>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_SortingOrder: 0
+--- !u!23 &23842510598066636
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
+MeshRenderer:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1187151397529972}
+=======
+  m_GameObject: {fileID: 1998586343478500}
+>>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1218440152784162}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
+  m_Enabled: 1
+  m_CastShadows: 0
+  m_ReceiveShadows: 0
+  m_MotionVectors: 1
+  m_LightProbeUsage: 1
+  m_ReflectionProbeUsage: 0
+  m_Materials:
+  - {fileID: 2100000, guid: 2829154e0f32f5c44afa8f3fcaf7dc74, type: 2}
+  m_StaticBatchInfo:
+    firstSubMesh: 0
+    subMeshCount: 0
+  m_StaticBatchRoot: {fileID: 0}
+  m_ProbeAnchor: {fileID: 0}
+  m_LightProbeVolumeOverride: {fileID: 0}
+  m_ScaleInLightmap: 1
+  m_PreserveUVs: 0
+  m_IgnoreNormalsForChartDetection: 0
+  m_ImportantGI: 0
+  m_SelectedEditorRenderState: 3
+  m_MinimumChartSize: 4
+  m_AutoUVMaxDistance: 0.5
+  m_AutoUVMaxAngle: 89
+  m_LightmapParameters: {fileID: 0}
+  m_SortingLayerID: 0
+  m_SortingLayer: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_SortingOrder: 1
 --- !u!33 &33007777816901258
 =======
   m_SortingOrder: 3
 --- !u!33 &33016043470458736
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_SortingOrder: 8
+--- !u!33 &33027252833359884
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1871790253332322}
   m_Mesh: {fileID: 4300010, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
@@ -1942,10 +2415,16 @@ MeshFilter:
   m_Mesh: {fileID: 4300014, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
 --- !u!33 &33032297817672632
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1465654116489608}
+  m_Mesh: {fileID: 4300002, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
+--- !u!33 &33208987580149714
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1804514641702838}
   m_Mesh: {fileID: 4300000, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
@@ -1955,10 +2434,16 @@ MeshFilter:
   m_Mesh: {fileID: 4300008, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
 --- !u!33 &33035546257631980
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1403160146109516}
+  m_Mesh: {fileID: 4300014, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
+--- !u!33 &33253579141958808
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1670047293502408}
   m_Mesh: {fileID: 4300016, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
@@ -1968,10 +2453,16 @@ MeshFilter:
   m_Mesh: {fileID: 4300006, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
 --- !u!33 &33173713000695212
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1089018807499716}
+  m_Mesh: {fileID: 4300012, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
+--- !u!33 &33291006465813712
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1486312352533544}
   m_Mesh: {fileID: 4300004, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
@@ -1981,10 +2472,16 @@ MeshFilter:
   m_Mesh: {fileID: 4300000, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
 --- !u!33 &33469607328889314
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1364489836070118}
+  m_Mesh: {fileID: 4300004, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
+--- !u!33 &33382055949777730
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1187151397529972}
   m_Mesh: {fileID: 4300002, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
@@ -1994,10 +2491,16 @@ MeshFilter:
   m_Mesh: {fileID: 4300004, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
 --- !u!33 &33545721496672972
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1648137549834380}
+  m_Mesh: {fileID: 4300008, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
+--- !u!33 &33436721493089264
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1161435968513592}
   m_Mesh: {fileID: 4300012, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
@@ -2007,10 +2510,16 @@ MeshFilter:
   m_Mesh: {fileID: 4300002, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
 --- !u!33 &33607361071069514
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1524803156176550}
+  m_Mesh: {fileID: 4300006, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
+--- !u!33 &33595307165312612
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1566519915279974}
   m_Mesh: {fileID: 4300006, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
@@ -2020,10 +2529,16 @@ MeshFilter:
   m_Mesh: {fileID: 4300010, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
 --- !u!33 &33630565289038944
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1656157799445842}
+  m_Mesh: {fileID: 4300000, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
+--- !u!33 &33789766241383516
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1148301378822106}
   m_Mesh: {fileID: 4300008, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
@@ -2033,10 +2548,16 @@ MeshFilter:
   m_Mesh: {fileID: 4300012, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
 --- !u!33 &33784204570136356
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1218440152784162}
+  m_Mesh: {fileID: 4300016, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
+--- !u!33 &33813063571314644
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MeshFilter:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_GameObject: {fileID: 1679943936792312}
   m_Mesh: {fileID: 4300014, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
@@ -2046,15 +2567,24 @@ MeshFilter:
   m_Mesh: {fileID: 4300016, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
 --- !u!60 &60197717629866524
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1068003027441788}
+  m_Mesh: {fileID: 4300010, guid: 1c5f65e063d8d8a418eb83fed6521fe0, type: 3}
+--- !u!60 &60103540355009886
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 PolygonCollider2D:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1637343923710668}
 =======
   m_GameObject: {fileID: 1719160834185146}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1583938632864176}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -2073,6 +2603,7 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
+<<<<<<< HEAD
 <<<<<<< HEAD
     - - {x: 311, y: -31}
       - {x: 313, y: -31}
@@ -2350,115 +2881,129 @@ PolygonCollider2D:
       - {x: 669, y: -2}
     - - {x: 701, y: 0}
       - {x: 671, y: 0}
+=======
+    - - {x: 991, y: 0}
+      - {x: 960, y: 0}
+      - {x: 960, y: -2}
+      - {x: 991, y: -2}
+    - - {x: 671, y: 0}
+      - {x: 640, y: 0}
+      - {x: 640, y: -2}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
       - {x: 671, y: -2}
-      - {x: 701, y: -2}
-    - - {x: 733, y: 0}
-      - {x: 703, y: 0}
+    - - {x: 703, y: 0}
+      - {x: 672, y: 0}
+      - {x: 672, y: -2}
       - {x: 703, y: -2}
-      - {x: 733, y: -2}
-    - - {x: 765, y: 0}
-      - {x: 735, y: 0}
+    - - {x: 735, y: 0}
+      - {x: 704, y: 0}
+      - {x: 704, y: -2}
       - {x: 735, y: -2}
-      - {x: 765, y: -2}
-    - - {x: 797, y: 0}
-      - {x: 767, y: 0}
+    - - {x: 767, y: 0}
+      - {x: 736, y: 0}
+      - {x: 736, y: -2}
       - {x: 767, y: -2}
-      - {x: 797, y: -2}
-    - - {x: 829, y: 0}
-      - {x: 799, y: 0}
+    - - {x: 799, y: 0}
+      - {x: 768, y: 0}
+      - {x: 768, y: -2}
       - {x: 799, y: -2}
-      - {x: 829, y: -2}
-    - - {x: 861, y: 0}
-      - {x: 831, y: 0}
+    - - {x: 831, y: 0}
+      - {x: 800, y: 0}
+      - {x: 800, y: -2}
       - {x: 831, y: -2}
-      - {x: 861, y: -2}
-    - - {x: 893, y: 0}
-      - {x: 863, y: 0}
+    - - {x: 863, y: 0}
+      - {x: 832, y: 0}
+      - {x: 832, y: -2}
       - {x: 863, y: -2}
-      - {x: 893, y: -2}
-    - - {x: 925, y: 0}
-      - {x: 895, y: 0}
+    - - {x: 895, y: 0}
+      - {x: 864, y: 0}
+      - {x: 864, y: -2}
       - {x: 895, y: -2}
-      - {x: 925, y: -2}
-    - - {x: 957, y: 0}
-      - {x: 927, y: 0}
+    - - {x: 927, y: 0}
+      - {x: 896, y: 0}
+      - {x: 896, y: -2}
       - {x: 927, y: -2}
-      - {x: 957, y: -2}
-    - - {x: 349, y: 0}
-      - {x: 319, y: 0}
-      - {x: 319, y: -2}
-      - {x: 349, y: -2}
-    - - {x: 381, y: 0}
-      - {x: 351, y: 0}
+    - - {x: 959, y: 0}
+      - {x: 928, y: 0}
+      - {x: 928, y: -2}
+      - {x: 959, y: -2}
+    - - {x: 351, y: 0}
+      - {x: 320, y: 0}
+      - {x: 320, y: -2}
       - {x: 351, y: -2}
-      - {x: 381, y: -2}
-    - - {x: 413, y: 0}
-      - {x: 383, y: 0}
+    - - {x: 383, y: 0}
+      - {x: 352, y: 0}
+      - {x: 352, y: -2}
       - {x: 383, y: -2}
-      - {x: 413, y: -2}
-    - - {x: 445, y: 0}
-      - {x: 415, y: 0}
+    - - {x: 415, y: 0}
+      - {x: 384, y: 0}
+      - {x: 384, y: -2}
       - {x: 415, y: -2}
-      - {x: 445, y: -2}
-    - - {x: 477, y: 0}
-      - {x: 447, y: 0}
+    - - {x: 447, y: 0}
+      - {x: 416, y: 0}
+      - {x: 416, y: -2}
       - {x: 447, y: -2}
-      - {x: 477, y: -2}
-    - - {x: 509, y: 0}
-      - {x: 479, y: 0}
+    - - {x: 479, y: 0}
+      - {x: 448, y: 0}
+      - {x: 448, y: -2}
       - {x: 479, y: -2}
-      - {x: 509, y: -2}
-    - - {x: 541, y: 0}
-      - {x: 511, y: 0}
+    - - {x: 511, y: 0}
+      - {x: 480, y: 0}
+      - {x: 480, y: -2}
       - {x: 511, y: -2}
-      - {x: 541, y: -2}
-    - - {x: 573, y: 0}
-      - {x: 543, y: 0}
+    - - {x: 543, y: 0}
+      - {x: 512, y: 0}
+      - {x: 512, y: -2}
       - {x: 543, y: -2}
-      - {x: 573, y: -2}
-    - - {x: 605, y: 0}
-      - {x: 575, y: 0}
+    - - {x: 575, y: 0}
+      - {x: 544, y: 0}
+      - {x: 544, y: -2}
       - {x: 575, y: -2}
-      - {x: 605, y: -2}
-    - - {x: 637, y: 0}
-      - {x: 607, y: 0}
+    - - {x: 607, y: 0}
+      - {x: 576, y: 0}
+      - {x: 576, y: -2}
       - {x: 607, y: -2}
-      - {x: 637, y: -2}
-    - - {x: 61, y: 0}
-      - {x: 31, y: 0}
-      - {x: 31, y: -2}
-      - {x: 61, y: -2}
-    - - {x: 93, y: 0}
-      - {x: 63, y: 0}
+    - - {x: 639, y: 0}
+      - {x: 608, y: 0}
+      - {x: 608, y: -2}
+      - {x: 639, y: -2}
+    - - {x: 33, y: -2}
       - {x: 63, y: -2}
-      - {x: 93, y: -2}
-    - - {x: 125, y: 0}
-      - {x: 95, y: 0}
+      - {x: 63, y: 0}
+      - {x: 32, y: 0}
+      - {x: 32, y: -1}
+      - {x: 24, y: -1}
+      - {x: 24, y: -20}
+      - {x: 33, y: -20}
+    - - {x: 95, y: 0}
+      - {x: 64, y: 0}
+      - {x: 64, y: -2}
       - {x: 95, y: -2}
-      - {x: 125, y: -2}
-    - - {x: 157, y: 0}
-      - {x: 127, y: 0}
+    - - {x: 127, y: 0}
+      - {x: 96, y: 0}
+      - {x: 96, y: -2}
       - {x: 127, y: -2}
-      - {x: 157, y: -2}
-    - - {x: 189, y: 0}
-      - {x: 159, y: 0}
+    - - {x: 159, y: 0}
+      - {x: 128, y: 0}
+      - {x: 128, y: -2}
       - {x: 159, y: -2}
-      - {x: 189, y: -2}
-    - - {x: 221, y: 0}
-      - {x: 191, y: 0}
+    - - {x: 191, y: 0}
+      - {x: 160, y: 0}
+      - {x: 160, y: -2}
       - {x: 191, y: -2}
-      - {x: 221, y: -2}
-    - - {x: 253, y: 0}
-      - {x: 223, y: 0}
+    - - {x: 223, y: 0}
+      - {x: 192, y: 0}
+      - {x: 192, y: -2}
       - {x: 223, y: -2}
-      - {x: 253, y: -2}
-    - - {x: 285, y: 0}
-      - {x: 255, y: 0}
+    - - {x: 255, y: 0}
+      - {x: 224, y: 0}
+      - {x: 224, y: -2}
       - {x: 255, y: -2}
-      - {x: 285, y: -2}
-    - - {x: 317, y: 0}
-      - {x: 287, y: 0}
+    - - {x: 287, y: 0}
+      - {x: 256, y: 0}
+      - {x: 256, y: -2}
       - {x: 287, y: -2}
+<<<<<<< HEAD
       - {x: 317, y: -2}
     - - {x: 1021, y: -736}
       - {x: 1021, y: -32}
@@ -4058,6 +4603,8 @@ PolygonCollider2D:
       - {x: 256, y: 0}
       - {x: 256, y: -2}
       - {x: 287, y: -2}
+=======
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
     - - {x: 319, y: 0}
       - {x: 288, y: 0}
       - {x: 288, y: -2}
@@ -4271,19 +4818,18 @@ PolygonCollider2D:
       - {x: 22, y: -767}
       - {x: 31, y: -767}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!60 &60638092068544024
 =======
 --- !u!60 &60912809188546988
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!60 &60206008578838066
 PolygonCollider2D:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-<<<<<<< HEAD
-  m_GameObject: {fileID: 1448514404475180}
-=======
-  m_GameObject: {fileID: 1669754161547018}
->>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+  m_GameObject: {fileID: 1593645195572412}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -4302,6 +4848,412 @@ PolygonCollider2D:
   m_AutoTiling: 0
   m_Points:
     m_Paths:
+    - - {x: 309, y: 1}
+      - {x: 288, y: 1}
+      - {x: 288, y: -18}
+      - {x: 309, y: -18}
+    - - {x: 287, y: 0}
+      - {x: 264, y: 0}
+      - {x: 264, y: -29}
+      - {x: 287, y: -29}
+    - - {x: 218, y: -145}
+      - {x: 197, y: -145}
+      - {x: 197, y: -159}
+      - {x: 218, y: -159}
+    - - {x: 220, y: -162}
+      - {x: 195, y: -162}
+      - {x: 195, y: -172}
+      - {x: 220, y: -172}
+--- !u!60 &60625278043216972
+PolygonCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1353572818093832}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 989, y: 0}
+      - {x: 959, y: 0}
+      - {x: 959, y: -2}
+      - {x: 989, y: -2}
+    - - {x: 669, y: 0}
+      - {x: 639, y: 0}
+      - {x: 639, y: -2}
+      - {x: 669, y: -2}
+    - - {x: 701, y: 0}
+      - {x: 671, y: 0}
+      - {x: 671, y: -2}
+      - {x: 701, y: -2}
+    - - {x: 733, y: 0}
+      - {x: 703, y: 0}
+      - {x: 703, y: -2}
+      - {x: 733, y: -2}
+    - - {x: 765, y: 0}
+      - {x: 735, y: 0}
+      - {x: 735, y: -2}
+      - {x: 765, y: -2}
+    - - {x: 797, y: 0}
+      - {x: 767, y: 0}
+      - {x: 767, y: -2}
+      - {x: 797, y: -2}
+    - - {x: 829, y: 0}
+      - {x: 799, y: 0}
+      - {x: 799, y: -2}
+      - {x: 829, y: -2}
+    - - {x: 861, y: 0}
+      - {x: 831, y: 0}
+      - {x: 831, y: -2}
+      - {x: 861, y: -2}
+    - - {x: 893, y: 0}
+      - {x: 863, y: 0}
+      - {x: 863, y: -2}
+      - {x: 893, y: -2}
+    - - {x: 925, y: 0}
+      - {x: 895, y: 0}
+      - {x: 895, y: -2}
+      - {x: 925, y: -2}
+    - - {x: 957, y: 0}
+      - {x: 927, y: 0}
+      - {x: 927, y: -2}
+      - {x: 957, y: -2}
+    - - {x: 349, y: 0}
+      - {x: 319, y: 0}
+      - {x: 319, y: -2}
+      - {x: 349, y: -2}
+    - - {x: 381, y: 0}
+      - {x: 351, y: 0}
+      - {x: 351, y: -2}
+      - {x: 381, y: -2}
+    - - {x: 413, y: 0}
+      - {x: 383, y: 0}
+      - {x: 383, y: -2}
+      - {x: 413, y: -2}
+    - - {x: 445, y: 0}
+      - {x: 415, y: 0}
+      - {x: 415, y: -2}
+      - {x: 445, y: -2}
+    - - {x: 477, y: 0}
+      - {x: 447, y: 0}
+      - {x: 447, y: -2}
+      - {x: 477, y: -2}
+    - - {x: 509, y: 0}
+      - {x: 479, y: 0}
+      - {x: 479, y: -2}
+      - {x: 509, y: -2}
+    - - {x: 541, y: 0}
+      - {x: 511, y: 0}
+      - {x: 511, y: -2}
+      - {x: 541, y: -2}
+    - - {x: 573, y: 0}
+      - {x: 543, y: 0}
+      - {x: 543, y: -2}
+      - {x: 573, y: -2}
+    - - {x: 605, y: 0}
+      - {x: 575, y: 0}
+      - {x: 575, y: -2}
+      - {x: 605, y: -2}
+    - - {x: 637, y: 0}
+      - {x: 607, y: 0}
+      - {x: 607, y: -2}
+      - {x: 637, y: -2}
+    - - {x: 61, y: 0}
+      - {x: 31, y: 0}
+      - {x: 31, y: -2}
+      - {x: 61, y: -2}
+    - - {x: 93, y: 0}
+      - {x: 63, y: 0}
+      - {x: 63, y: -2}
+      - {x: 93, y: -2}
+    - - {x: 125, y: 0}
+      - {x: 95, y: 0}
+      - {x: 95, y: -2}
+      - {x: 125, y: -2}
+    - - {x: 157, y: 0}
+      - {x: 127, y: 0}
+      - {x: 127, y: -2}
+      - {x: 157, y: -2}
+    - - {x: 189, y: 0}
+      - {x: 159, y: 0}
+      - {x: 159, y: -2}
+      - {x: 189, y: -2}
+    - - {x: 221, y: 0}
+      - {x: 191, y: 0}
+      - {x: 191, y: -2}
+      - {x: 221, y: -2}
+    - - {x: 253, y: 0}
+      - {x: 223, y: 0}
+      - {x: 223, y: -2}
+      - {x: 253, y: -2}
+    - - {x: 285, y: 0}
+      - {x: 255, y: 0}
+      - {x: 255, y: -2}
+      - {x: 285, y: -2}
+    - - {x: 317, y: 0}
+      - {x: 287, y: 0}
+      - {x: 287, y: -2}
+      - {x: 317, y: -2}
+    - - {x: 1021, y: -736}
+      - {x: 1021, y: -32}
+      - {x: 1012, y: -32}
+      - {x: 1012, y: -736}
+    - - {x: 8, y: -32}
+      - {x: 0, y: -32}
+      - {x: 0, y: -63}
+      - {x: 8, y: -63}
+    - - {x: 8, y: -64}
+      - {x: 0, y: -64}
+      - {x: 0, y: -95}
+      - {x: 8, y: -95}
+    - - {x: 8, y: -96}
+      - {x: 0, y: -96}
+      - {x: 0, y: -127}
+      - {x: 8, y: -127}
+    - - {x: 8, y: -128}
+      - {x: 0, y: -128}
+      - {x: 0, y: -159}
+      - {x: 8, y: -159}
+    - - {x: 8, y: -160}
+      - {x: 0, y: -160}
+      - {x: 0, y: -191}
+      - {x: 8, y: -191}
+    - - {x: 8, y: -192}
+      - {x: 0, y: -192}
+      - {x: 0, y: -223}
+      - {x: 8, y: -223}
+    - - {x: 8, y: -224}
+      - {x: 0, y: -224}
+      - {x: 0, y: -255}
+      - {x: 8, y: -255}
+    - - {x: 8, y: -256}
+      - {x: 0, y: -256}
+      - {x: 0, y: -287}
+      - {x: 8, y: -287}
+    - - {x: 8, y: -288}
+      - {x: 0, y: -288}
+      - {x: 0, y: -319}
+      - {x: 8, y: -319}
+    - - {x: 8, y: -320}
+      - {x: 0, y: -320}
+      - {x: 0, y: -351}
+      - {x: 8, y: -351}
+    - - {x: 8, y: -352}
+      - {x: 0, y: -352}
+      - {x: 0, y: -383}
+      - {x: 8, y: -383}
+    - - {x: 8, y: -384}
+      - {x: 0, y: -384}
+      - {x: 0, y: -415}
+      - {x: 8, y: -415}
+    - - {x: 8, y: -416}
+      - {x: 0, y: -416}
+      - {x: 0, y: -447}
+      - {x: 8, y: -447}
+    - - {x: 8, y: -448}
+      - {x: 0, y: -448}
+      - {x: 0, y: -479}
+      - {x: 8, y: -479}
+    - - {x: 8, y: -480}
+      - {x: 0, y: -480}
+      - {x: 0, y: -511}
+      - {x: 8, y: -511}
+    - - {x: 8, y: -512}
+      - {x: 0, y: -512}
+      - {x: 0, y: -543}
+      - {x: 8, y: -543}
+    - - {x: 8, y: -544}
+      - {x: 0, y: -544}
+      - {x: 0, y: -575}
+      - {x: 8, y: -575}
+    - - {x: 8, y: -576}
+      - {x: 0, y: -576}
+      - {x: 0, y: -607}
+      - {x: 8, y: -607}
+    - - {x: 8, y: -608}
+      - {x: 0, y: -608}
+      - {x: 0, y: -639}
+      - {x: 8, y: -639}
+    - - {x: 8, y: -640}
+      - {x: 0, y: -640}
+      - {x: 0, y: -671}
+      - {x: 8, y: -671}
+    - - {x: 8, y: -672}
+      - {x: 0, y: -672}
+      - {x: 0, y: -703}
+      - {x: 8, y: -703}
+    - - {x: 8, y: -704}
+      - {x: 0, y: -704}
+      - {x: 0, y: -735}
+      - {x: 8, y: -735}
+    - - {x: 670, y: -756}
+      - {x: 641, y: -756}
+      - {x: 641, y: -767}
+      - {x: 670, y: -767}
+    - - {x: 702, y: -756}
+      - {x: 673, y: -756}
+      - {x: 673, y: -767}
+      - {x: 702, y: -767}
+    - - {x: 734, y: -756}
+      - {x: 705, y: -756}
+      - {x: 705, y: -767}
+      - {x: 734, y: -767}
+    - - {x: 766, y: -756}
+      - {x: 737, y: -756}
+      - {x: 737, y: -767}
+      - {x: 766, y: -767}
+    - - {x: 798, y: -756}
+      - {x: 769, y: -756}
+      - {x: 769, y: -767}
+      - {x: 798, y: -767}
+    - - {x: 830, y: -756}
+      - {x: 801, y: -756}
+      - {x: 801, y: -767}
+      - {x: 830, y: -767}
+    - - {x: 862, y: -756}
+      - {x: 833, y: -756}
+      - {x: 833, y: -767}
+      - {x: 862, y: -767}
+    - - {x: 894, y: -756}
+      - {x: 865, y: -756}
+      - {x: 865, y: -767}
+      - {x: 894, y: -767}
+    - - {x: 926, y: -756}
+      - {x: 897, y: -756}
+      - {x: 897, y: -767}
+      - {x: 926, y: -767}
+    - - {x: 958, y: -756}
+      - {x: 929, y: -756}
+      - {x: 929, y: -767}
+      - {x: 958, y: -767}
+    - - {x: 350, y: -756}
+      - {x: 321, y: -756}
+      - {x: 321, y: -767}
+      - {x: 350, y: -767}
+    - - {x: 382, y: -756}
+      - {x: 353, y: -756}
+      - {x: 353, y: -767}
+      - {x: 382, y: -767}
+    - - {x: 414, y: -756}
+      - {x: 385, y: -756}
+      - {x: 385, y: -767}
+      - {x: 414, y: -767}
+    - - {x: 446, y: -756}
+      - {x: 417, y: -756}
+      - {x: 417, y: -767}
+      - {x: 446, y: -767}
+    - - {x: 478, y: -756}
+      - {x: 449, y: -756}
+      - {x: 449, y: -767}
+      - {x: 478, y: -767}
+    - - {x: 510, y: -756}
+      - {x: 481, y: -756}
+      - {x: 481, y: -767}
+      - {x: 510, y: -767}
+    - - {x: 542, y: -756}
+      - {x: 513, y: -756}
+      - {x: 513, y: -767}
+      - {x: 542, y: -767}
+    - - {x: 574, y: -756}
+      - {x: 545, y: -756}
+      - {x: 545, y: -767}
+      - {x: 574, y: -767}
+    - - {x: 606, y: -756}
+      - {x: 577, y: -756}
+      - {x: 577, y: -767}
+      - {x: 606, y: -767}
+    - - {x: 638, y: -756}
+      - {x: 609, y: -756}
+      - {x: 609, y: -767}
+      - {x: 638, y: -767}
+    - - {x: 990, y: -756}
+      - {x: 961, y: -756}
+      - {x: 961, y: -767}
+      - {x: 990, y: -767}
+    - - {x: 62, y: -756}
+      - {x: 33, y: -756}
+      - {x: 33, y: -767}
+      - {x: 62, y: -767}
+    - - {x: 94, y: -756}
+      - {x: 65, y: -756}
+      - {x: 65, y: -767}
+      - {x: 94, y: -767}
+    - - {x: 126, y: -756}
+      - {x: 97, y: -756}
+      - {x: 97, y: -767}
+      - {x: 126, y: -767}
+    - - {x: 158, y: -756}
+      - {x: 129, y: -756}
+      - {x: 129, y: -767}
+      - {x: 158, y: -767}
+    - - {x: 190, y: -756}
+      - {x: 161, y: -756}
+      - {x: 161, y: -767}
+      - {x: 190, y: -767}
+    - - {x: 222, y: -756}
+      - {x: 193, y: -756}
+      - {x: 193, y: -767}
+      - {x: 222, y: -767}
+    - - {x: 254, y: -756}
+      - {x: 225, y: -756}
+      - {x: 225, y: -767}
+      - {x: 254, y: -767}
+    - - {x: 286, y: -756}
+      - {x: 257, y: -756}
+      - {x: 257, y: -767}
+      - {x: 286, y: -767}
+    - - {x: 318, y: -756}
+      - {x: 289, y: -756}
+      - {x: 289, y: -767}
+      - {x: 318, y: -767}
+--- !u!60 &60676149458666438
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
+PolygonCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+<<<<<<< HEAD
+<<<<<<< HEAD
+  m_GameObject: {fileID: 1448514404475180}
+=======
+  m_GameObject: {fileID: 1669754161547018}
+>>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1107267457361646}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+<<<<<<< HEAD
 <<<<<<< HEAD
     - - {x: 61, y: 0}
       - {x: 31, y: 0}
@@ -4861,11 +5813,278 @@ PolygonCollider2D:
       - {x: 96, y: -675}
       - {x: 127, y: -675}
 --- !u!60 &60835300161123876
+=======
+    - - {x: 311, y: -31}
+      - {x: 313, y: -31}
+      - {x: 313, y: 0}
+      - {x: 287, y: 0}
+      - {x: 287, y: 1}
+      - {x: 262, y: 1}
+      - {x: 262, y: -30}
+      - {x: 287, y: -30}
+      - {x: 287, y: -31}
+      - {x: 289, y: -31}
+      - {x: 289, y: -52}
+      - {x: 311, y: -52}
+    - - {x: 286, y: -33}
+      - {x: 262, y: -33}
+      - {x: 262, y: -53}
+      - {x: 286, y: -53}
+    - - {x: 288, y: -113}
+      - {x: 265, y: -113}
+      - {x: 265, y: -125}
+      - {x: 288, y: -125}
+    - - {x: 286, y: -194}
+      - {x: 312, y: -194}
+      - {x: 312, y: -128}
+      - {x: 311, y: -128}
+      - {x: 311, y: -113}
+      - {x: 291, y: -113}
+      - {x: 291, y: -128}
+      - {x: 286, y: -128}
+      - {x: 286, y: -127}
+      - {x: 266, y: -127}
+      - {x: 266, y: -158}
+      - {x: 286, y: -158}
+      - {x: 286, y: -159}
+      - {x: 266, y: -159}
+      - {x: 266, y: -190}
+      - {x: 286, y: -190}
+      - {x: 286, y: -193}
+      - {x: 262, y: -193}
+      - {x: 262, y: -213}
+      - {x: 286, y: -213}
+    - - {x: 841, y: -192}
+      - {x: 832, y: -192}
+      - {x: 832, y: -223}
+      - {x: 841, y: -223}
+    - - {x: 829, y: -194}
+      - {x: 818, y: -194}
+      - {x: 818, y: -223}
+      - {x: 829, y: -223}
+    - - {x: 829, y: -224}
+      - {x: 820, y: -224}
+      - {x: 820, y: -288}
+      - {x: 829, y: -288}
+    - - {x: 840, y: -224}
+      - {x: 832, y: -224}
+      - {x: 832, y: -255}
+      - {x: 840, y: -255}
+    - - {x: 617, y: -288}
+      - {x: 620, y: -288}
+      - {x: 620, y: -255}
+      - {x: 607, y: -255}
+      - {x: 607, y: -256}
+      - {x: 595, y: -256}
+      - {x: 595, y: -287}
+      - {x: 607, y: -287}
+      - {x: 607, y: -288}
+      - {x: 608, y: -288}
+      - {x: 608, y: -319}
+      - {x: 617, y: -319}
+    - - {x: 840, y: -256}
+      - {x: 832, y: -256}
+      - {x: 832, y: -287}
+      - {x: 840, y: -287}
+    - - {x: 841, y: -288}
+      - {x: 832, y: -288}
+      - {x: 832, y: -319}
+      - {x: 841, y: -319}
+    - - {x: 605, y: -290}
+      - {x: 594, y: -290}
+      - {x: 594, y: -319}
+      - {x: 605, y: -319}
+    - - {x: 819, y: -351}
+      - {x: 843, y: -351}
+      - {x: 843, y: -321}
+      - {x: 831, y: -321}
+      - {x: 831, y: -319}
+      - {x: 829, y: -319}
+      - {x: 829, y: -290}
+      - {x: 818, y: -290}
+      - {x: 818, y: -319}
+      - {x: 819, y: -319}
+    - - {x: 617, y: -320}
+      - {x: 608, y: -320}
+      - {x: 608, y: -351}
+      - {x: 617, y: -351}
+    - - {x: 605, y: -322}
+      - {x: 594, y: -322}
+      - {x: 594, y: -351}
+      - {x: 605, y: -351}
+    - - {x: 267, y: -577}
+      - {x: 255, y: -577}
+      - {x: 255, y: -575}
+      - {x: 253, y: -575}
+      - {x: 253, y: -352}
+      - {x: 244, y: -352}
+      - {x: 244, y: -575}
+      - {x: 243, y: -575}
+      - {x: 243, y: -607}
+      - {x: 267, y: -607}
+    - - {x: 264, y: -352}
+      - {x: 256, y: -352}
+      - {x: 256, y: -383}
+      - {x: 264, y: -383}
+    - - {x: 617, y: -352}
+      - {x: 608, y: -352}
+      - {x: 608, y: -383}
+      - {x: 617, y: -383}
+    - - {x: 605, y: -354}
+      - {x: 594, y: -354}
+      - {x: 594, y: -383}
+      - {x: 605, y: -383}
+    - - {x: 264, y: -384}
+      - {x: 256, y: -384}
+      - {x: 256, y: -415}
+      - {x: 264, y: -415}
+    - - {x: 617, y: -384}
+      - {x: 608, y: -384}
+      - {x: 608, y: -415}
+      - {x: 617, y: -415}
+    - - {x: 605, y: -386}
+      - {x: 594, y: -386}
+      - {x: 594, y: -415}
+      - {x: 605, y: -415}
+    - - {x: 841, y: -448}
+      - {x: 844, y: -448}
+      - {x: 844, y: -415}
+      - {x: 831, y: -415}
+      - {x: 831, y: -416}
+      - {x: 819, y: -416}
+      - {x: 819, y: -447}
+      - {x: 831, y: -447}
+      - {x: 831, y: -448}
+      - {x: 832, y: -448}
+      - {x: 832, y: -479}
+      - {x: 841, y: -479}
+    - - {x: 264, y: -416}
+      - {x: 256, y: -416}
+      - {x: 256, y: -447}
+      - {x: 264, y: -447}
+    - - {x: 617, y: -416}
+      - {x: 608, y: -416}
+      - {x: 608, y: -447}
+      - {x: 617, y: -447}
+    - - {x: 619, y: -449}
+      - {x: 607, y: -449}
+      - {x: 607, y: -447}
+      - {x: 605, y: -447}
+      - {x: 605, y: -418}
+      - {x: 594, y: -418}
+      - {x: 594, y: -447}
+      - {x: 595, y: -447}
+      - {x: 595, y: -479}
+      - {x: 619, y: -479}
+    - - {x: 264, y: -448}
+      - {x: 256, y: -448}
+      - {x: 256, y: -479}
+      - {x: 264, y: -479}
+    - - {x: 829, y: -450}
+      - {x: 818, y: -450}
+      - {x: 818, y: -479}
+      - {x: 829, y: -479}
+    - - {x: 264, y: -480}
+      - {x: 256, y: -480}
+      - {x: 256, y: -511}
+      - {x: 264, y: -511}
+    - - {x: 829, y: -480}
+      - {x: 820, y: -480}
+      - {x: 820, y: -512}
+      - {x: 829, y: -512}
+    - - {x: 840, y: -480}
+      - {x: 832, y: -480}
+      - {x: 832, y: -511}
+      - {x: 840, y: -511}
+    - - {x: 264, y: -512}
+      - {x: 256, y: -512}
+      - {x: 256, y: -543}
+      - {x: 264, y: -543}
+    - - {x: 841, y: -512}
+      - {x: 832, y: -512}
+      - {x: 832, y: -543}
+      - {x: 841, y: -543}
+    - - {x: 829, y: -514}
+      - {x: 818, y: -514}
+      - {x: 818, y: -543}
+      - {x: 829, y: -543}
+    - - {x: 264, y: -544}
+      - {x: 256, y: -544}
+      - {x: 256, y: -575}
+      - {x: 264, y: -575}
+    - - {x: 829, y: -544}
+      - {x: 820, y: -544}
+      - {x: 820, y: -576}
+      - {x: 829, y: -576}
+    - - {x: 840, y: -544}
+      - {x: 832, y: -544}
+      - {x: 832, y: -575}
+      - {x: 840, y: -575}
+    - - {x: 745, y: -576}
+      - {x: 736, y: -576}
+      - {x: 736, y: -607}
+      - {x: 745, y: -607}
+    - - {x: 445, y: -768}
+      - {x: 445, y: -576}
+      - {x: 436, y: -576}
+      - {x: 436, y: -768}
+    - - {x: 456, y: -576}
+      - {x: 448, y: -576}
+      - {x: 448, y: -607}
+      - {x: 456, y: -607}
+    - - {x: 733, y: -578}
+      - {x: 722, y: -578}
+      - {x: 722, y: -607}
+      - {x: 733, y: -607}
+    - - {x: 745, y: -608}
+      - {x: 736, y: -608}
+      - {x: 736, y: -639}
+      - {x: 745, y: -639}
+    - - {x: 456, y: -608}
+      - {x: 448, y: -608}
+      - {x: 448, y: -639}
+      - {x: 456, y: -639}
+    - - {x: 723, y: -671}
+      - {x: 747, y: -671}
+      - {x: 747, y: -641}
+      - {x: 735, y: -641}
+      - {x: 735, y: -639}
+      - {x: 733, y: -639}
+      - {x: 733, y: -610}
+      - {x: 722, y: -610}
+      - {x: 722, y: -639}
+      - {x: 723, y: -639}
+    - - {x: 456, y: -640}
+      - {x: 448, y: -640}
+      - {x: 448, y: -671}
+      - {x: 456, y: -671}
+    - - {x: 456, y: -672}
+      - {x: 448, y: -672}
+      - {x: 448, y: -703}
+      - {x: 456, y: -703}
+    - - {x: 456, y: -704}
+      - {x: 448, y: -704}
+      - {x: 448, y: -735}
+      - {x: 456, y: -735}
+    - - {x: 748, y: -735}
+      - {x: 735, y: -735}
+      - {x: 735, y: -736}
+      - {x: 723, y: -736}
+      - {x: 723, y: -767}
+      - {x: 735, y: -767}
+      - {x: 735, y: -768}
+      - {x: 748, y: -768}
+    - - {x: 456, y: -736}
+      - {x: 448, y: -736}
+      - {x: 448, y: -767}
+      - {x: 456, y: -767}
+--- !u!60 &60723003349354842
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 PolygonCollider2D:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1457755799338002}
+  m_GameObject: {fileID: 1664118790225798}
   m_Enabled: 1
   m_Density: 1
   m_Material: {fileID: 0}
@@ -4960,6 +6179,18 @@ PolygonCollider2D:
       - {x: 127, y: -192}
       - {x: 127, y: -223}
       - {x: 158, y: -223}
+    - - {x: 767, y: -319}
+      - {x: 737, y: -319}
+      - {x: 737, y: -351}
+      - {x: 767, y: -351}
+    - - {x: 799, y: -319}
+      - {x: 769, y: -319}
+      - {x: 769, y: -351}
+      - {x: 799, y: -351}
+    - - {x: 831, y: -319}
+      - {x: 801, y: -319}
+      - {x: 801, y: -351}
+      - {x: 831, y: -351}
     - - {x: 382, y: -352}
       - {x: 351, y: -352}
       - {x: 351, y: -351}
@@ -5008,6 +6239,22 @@ PolygonCollider2D:
       - {x: 799, y: -448}
       - {x: 799, y: -479}
       - {x: 830, y: -479}
+    - - {x: 158, y: -512}
+      - {x: 127, y: -512}
+      - {x: 127, y: -543}
+      - {x: 158, y: -543}
+    - - {x: 190, y: -512}
+      - {x: 159, y: -512}
+      - {x: 159, y: -543}
+      - {x: 190, y: -543}
+    - - {x: 222, y: -512}
+      - {x: 191, y: -512}
+      - {x: 191, y: -543}
+      - {x: 222, y: -543}
+    - - {x: 254, y: -512}
+      - {x: 223, y: -512}
+      - {x: 223, y: -543}
+      - {x: 254, y: -543}
     - - {x: 991, y: -575}
       - {x: 961, y: -575}
       - {x: 961, y: -607}
@@ -5016,20 +6263,6 @@ PolygonCollider2D:
       - {x: 993, y: -575}
       - {x: 993, y: -607}
       - {x: 1023, y: -607}
-    - - {x: 766, y: -576}
-      - {x: 735, y: -576}
-      - {x: 735, y: -575}
-      - {x: 705, y: -575}
-      - {x: 705, y: -607}
-      - {x: 766, y: -607}
-    - - {x: 671, y: -575}
-      - {x: 641, y: -575}
-      - {x: 641, y: -607}
-      - {x: 671, y: -607}
-    - - {x: 703, y: -575}
-      - {x: 673, y: -575}
-      - {x: 673, y: -607}
-      - {x: 703, y: -607}
     - - {x: 446, y: -576}
       - {x: 415, y: -576}
       - {x: 415, y: -575}
@@ -5054,18 +6287,20 @@ PolygonCollider2D:
       - {x: 289, y: -575}
       - {x: 289, y: -607}
       - {x: 319, y: -607}
-    - - {x: 798, y: -576}
-      - {x: 767, y: -576}
-      - {x: 767, y: -607}
-      - {x: 798, y: -607}
-    - - {x: 830, y: -576}
-      - {x: 799, y: -576}
-      - {x: 799, y: -607}
-      - {x: 830, y: -607}
-    - - {x: 862, y: -576}
-      - {x: 831, y: -576}
-      - {x: 831, y: -607}
-      - {x: 862, y: -607}
+    - - {x: 766, y: -576}
+      - {x: 735, y: -576}
+      - {x: 735, y: -575}
+      - {x: 705, y: -575}
+      - {x: 705, y: -607}
+      - {x: 766, y: -607}
+    - - {x: 671, y: -575}
+      - {x: 641, y: -575}
+      - {x: 641, y: -607}
+      - {x: 671, y: -607}
+    - - {x: 703, y: -575}
+      - {x: 673, y: -575}
+      - {x: 673, y: -607}
+      - {x: 703, y: -607}
     - - {x: 542, y: -576}
       - {x: 511, y: -576}
       - {x: 511, y: -607}
@@ -5086,10 +6321,20 @@ PolygonCollider2D:
       - {x: 255, y: -576}
       - {x: 255, y: -607}
       - {x: 286, y: -607}
+    - - {x: 798, y: -576}
+      - {x: 767, y: -576}
+      - {x: 767, y: -607}
+      - {x: 798, y: -607}
+    - - {x: 830, y: -576}
+      - {x: 799, y: -576}
+      - {x: 799, y: -607}
+      - {x: 830, y: -607}
+    - - {x: 862, y: -576}
+      - {x: 831, y: -576}
+      - {x: 831, y: -607}
+      - {x: 862, y: -607}
     - - {x: 31, y: -671}
       - {x: 1, y: -671}
-=======
->>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
       - {x: 1, y: -703}
       - {x: 31, y: -703}
     - - {x: 63, y: -671}
@@ -5102,6 +6347,570 @@ PolygonCollider2D:
       - {x: 95, y: -703}
     - - {x: 127, y: -671}
       - {x: 97, y: -671}
+      - {x: 97, y: -703}
+      - {x: 127, y: -703}
+--- !u!60 &60795888886476174
+PolygonCollider2D:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1495462419828076}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 0
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: 0, y: 0}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Points:
+    m_Paths:
+    - - {x: 61, y: 0}
+      - {x: 31, y: 0}
+      - {x: 31, y: -2}
+      - {x: 61, y: -2}
+    - - {x: 96, y: -3}
+      - {x: 127, y: -3}
+      - {x: 127, y: 0}
+      - {x: 96, y: 0}
+      - {x: 96, y: -1}
+      - {x: 65, y: -1}
+      - {x: 65, y: -5}
+      - {x: 96, y: -5}
+    - - {x: 30, y: -1}
+      - {x: 0, y: -1}
+      - {x: 0, y: -3}
+      - {x: 30, y: -3}
+    - - {x: 734, y: -179}
+      - {x: 705, y: -179}
+      - {x: 705, y: -191}
+      - {x: 734, y: -191}
+    - - {x: 351, y: -179}
+      - {x: 321, y: -179}
+      - {x: 321, y: -192}
+      - {x: 351, y: -192}
+    - - {x: 383, y: -179}
+      - {x: 353, y: -179}
+      - {x: 353, y: -192}
+      - {x: 383, y: -192}
+    - - {x: 415, y: -179}
+      - {x: 385, y: -179}
+      - {x: 385, y: -192}
+      - {x: 415, y: -192}
+    - - {x: 447, y: -179}
+      - {x: 417, y: -179}
+      - {x: 417, y: -192}
+      - {x: 447, y: -192}
+    - - {x: 31, y: -179}
+      - {x: 1, y: -179}
+      - {x: 1, y: -192}
+      - {x: 31, y: -192}
+    - - {x: 63, y: -179}
+      - {x: 33, y: -179}
+      - {x: 33, y: -192}
+      - {x: 63, y: -192}
+    - - {x: 95, y: -179}
+      - {x: 65, y: -179}
+      - {x: 65, y: -192}
+      - {x: 95, y: -192}
+    - - {x: 127, y: -179}
+      - {x: 97, y: -179}
+      - {x: 97, y: -192}
+      - {x: 127, y: -192}
+    - - {x: 159, y: -179}
+      - {x: 129, y: -179}
+      - {x: 129, y: -192}
+      - {x: 159, y: -192}
+    - - {x: 191, y: -179}
+      - {x: 161, y: -179}
+      - {x: 161, y: -192}
+      - {x: 191, y: -192}
+    - - {x: 223, y: -179}
+      - {x: 193, y: -179}
+      - {x: 193, y: -192}
+      - {x: 223, y: -192}
+    - - {x: 255, y: -179}
+      - {x: 225, y: -179}
+      - {x: 225, y: -192}
+      - {x: 255, y: -192}
+    - - {x: 287, y: -179}
+      - {x: 257, y: -179}
+      - {x: 257, y: -192}
+      - {x: 287, y: -192}
+    - - {x: 319, y: -179}
+      - {x: 289, y: -179}
+      - {x: 289, y: -192}
+      - {x: 319, y: -192}
+    - - {x: 766, y: -180}
+      - {x: 737, y: -180}
+      - {x: 737, y: -191}
+      - {x: 766, y: -191}
+    - - {x: 798, y: -180}
+      - {x: 769, y: -180}
+      - {x: 769, y: -191}
+      - {x: 798, y: -191}
+    - - {x: 830, y: -180}
+      - {x: 801, y: -180}
+      - {x: 801, y: -191}
+      - {x: 830, y: -191}
+    - - {x: 862, y: -180}
+      - {x: 833, y: -180}
+      - {x: 833, y: -191}
+      - {x: 862, y: -191}
+    - - {x: 894, y: -181}
+      - {x: 865, y: -181}
+      - {x: 865, y: -191}
+      - {x: 894, y: -191}
+    - - {x: 478, y: -181}
+      - {x: 449, y: -181}
+      - {x: 449, y: -191}
+      - {x: 478, y: -191}
+    - - {x: 736, y: -194}
+      - {x: 765, y: -194}
+      - {x: 765, y: -192}
+      - {x: 735, y: -192}
+      - {x: 735, y: -193}
+      - {x: 705, y: -193}
+      - {x: 705, y: -197}
+      - {x: 736, y: -197}
+    - - {x: 797, y: -192}
+      - {x: 767, y: -192}
+      - {x: 767, y: -194}
+      - {x: 797, y: -194}
+    - - {x: 829, y: -192}
+      - {x: 799, y: -192}
+      - {x: 799, y: -194}
+      - {x: 829, y: -194}
+    - - {x: 861, y: -192}
+      - {x: 831, y: -192}
+      - {x: 831, y: -194}
+      - {x: 861, y: -194}
+    - - {x: 895, y: -192}
+      - {x: 864, y: -192}
+      - {x: 864, y: -195}
+      - {x: 895, y: -195}
+    - - {x: 479, y: -192}
+      - {x: 448, y: -192}
+      - {x: 448, y: -195}
+      - {x: 479, y: -195}
+    - - {x: 350, y: -193}
+      - {x: 320, y: -193}
+      - {x: 320, y: -195}
+      - {x: 350, y: -195}
+    - - {x: 382, y: -193}
+      - {x: 352, y: -193}
+      - {x: 352, y: -195}
+      - {x: 382, y: -195}
+    - - {x: 414, y: -193}
+      - {x: 384, y: -193}
+      - {x: 384, y: -195}
+      - {x: 414, y: -195}
+    - - {x: 446, y: -193}
+      - {x: 416, y: -193}
+      - {x: 416, y: -195}
+      - {x: 446, y: -195}
+    - - {x: 30, y: -193}
+      - {x: 0, y: -193}
+      - {x: 0, y: -195}
+      - {x: 30, y: -195}
+    - - {x: 62, y: -193}
+      - {x: 32, y: -193}
+      - {x: 32, y: -195}
+      - {x: 62, y: -195}
+    - - {x: 94, y: -193}
+      - {x: 64, y: -193}
+      - {x: 64, y: -195}
+      - {x: 94, y: -195}
+    - - {x: 126, y: -193}
+      - {x: 96, y: -193}
+      - {x: 96, y: -195}
+      - {x: 126, y: -195}
+    - - {x: 158, y: -193}
+      - {x: 128, y: -193}
+      - {x: 128, y: -195}
+      - {x: 158, y: -195}
+    - - {x: 190, y: -193}
+      - {x: 160, y: -193}
+      - {x: 160, y: -195}
+      - {x: 190, y: -195}
+    - - {x: 222, y: -193}
+      - {x: 192, y: -193}
+      - {x: 192, y: -195}
+      - {x: 222, y: -195}
+    - - {x: 254, y: -193}
+      - {x: 224, y: -193}
+      - {x: 224, y: -195}
+      - {x: 254, y: -195}
+    - - {x: 286, y: -193}
+      - {x: 256, y: -193}
+      - {x: 256, y: -195}
+      - {x: 286, y: -195}
+    - - {x: 318, y: -193}
+      - {x: 288, y: -193}
+      - {x: 288, y: -195}
+      - {x: 318, y: -195}
+    - - {x: 766, y: -307}
+      - {x: 737, y: -307}
+      - {x: 737, y: -319}
+      - {x: 766, y: -319}
+    - - {x: 799, y: -307}
+      - {x: 769, y: -307}
+      - {x: 769, y: -320}
+      - {x: 799, y: -320}
+    - - {x: 831, y: -307}
+      - {x: 801, y: -307}
+      - {x: 801, y: -320}
+      - {x: 831, y: -320}
+    - - {x: 768, y: -323}
+      - {x: 798, y: -323}
+      - {x: 798, y: -321}
+      - {x: 737, y: -321}
+      - {x: 737, y: -325}
+      - {x: 768, y: -325}
+    - - {x: 830, y: -321}
+      - {x: 800, y: -321}
+      - {x: 800, y: -323}
+      - {x: 830, y: -323}
+    - - {x: 351, y: -339}
+      - {x: 321, y: -339}
+      - {x: 321, y: -352}
+      - {x: 351, y: -352}
+    - - {x: 158, y: -339}
+      - {x: 129, y: -339}
+      - {x: 129, y: -351}
+      - {x: 158, y: -351}
+    - - {x: 191, y: -339}
+      - {x: 161, y: -339}
+      - {x: 161, y: -352}
+      - {x: 191, y: -352}
+    - - {x: 223, y: -339}
+      - {x: 193, y: -339}
+      - {x: 193, y: -352}
+      - {x: 223, y: -352}
+    - - {x: 255, y: -339}
+      - {x: 225, y: -339}
+      - {x: 225, y: -352}
+      - {x: 255, y: -352}
+    - - {x: 287, y: -339}
+      - {x: 257, y: -339}
+      - {x: 257, y: -352}
+      - {x: 287, y: -352}
+    - - {x: 319, y: -339}
+      - {x: 289, y: -339}
+      - {x: 289, y: -352}
+      - {x: 319, y: -352}
+    - - {x: 382, y: -341}
+      - {x: 353, y: -341}
+      - {x: 353, y: -351}
+      - {x: 382, y: -351}
+    - - {x: 383, y: -352}
+      - {x: 352, y: -352}
+      - {x: 352, y: -355}
+      - {x: 383, y: -355}
+    - - {x: 350, y: -353}
+      - {x: 320, y: -353}
+      - {x: 320, y: -355}
+      - {x: 350, y: -355}
+    - - {x: 160, y: -355}
+      - {x: 190, y: -355}
+      - {x: 190, y: -353}
+      - {x: 129, y: -353}
+      - {x: 129, y: -357}
+      - {x: 160, y: -357}
+    - - {x: 222, y: -353}
+      - {x: 192, y: -353}
+      - {x: 192, y: -355}
+      - {x: 222, y: -355}
+    - - {x: 254, y: -353}
+      - {x: 224, y: -353}
+      - {x: 224, y: -355}
+      - {x: 254, y: -355}
+    - - {x: 286, y: -353}
+      - {x: 256, y: -353}
+      - {x: 256, y: -355}
+      - {x: 286, y: -355}
+    - - {x: 318, y: -353}
+      - {x: 288, y: -353}
+      - {x: 288, y: -355}
+      - {x: 318, y: -355}
+    - - {x: 542, y: -404}
+      - {x: 513, y: -404}
+      - {x: 513, y: -415}
+      - {x: 542, y: -415}
+    - - {x: 574, y: -404}
+      - {x: 545, y: -404}
+      - {x: 545, y: -415}
+      - {x: 574, y: -415}
+    - - {x: 606, y: -404}
+      - {x: 577, y: -404}
+      - {x: 577, y: -415}
+      - {x: 606, y: -415}
+    - - {x: 541, y: -416}
+      - {x: 511, y: -416}
+      - {x: 511, y: -418}
+      - {x: 541, y: -418}
+    - - {x: 573, y: -416}
+      - {x: 543, y: -416}
+      - {x: 543, y: -418}
+      - {x: 573, y: -418}
+    - - {x: 605, y: -416}
+      - {x: 575, y: -416}
+      - {x: 575, y: -418}
+      - {x: 605, y: -418}
+    - - {x: 766, y: -435}
+      - {x: 737, y: -435}
+      - {x: 737, y: -447}
+      - {x: 766, y: -447}
+    - - {x: 799, y: -435}
+      - {x: 769, y: -435}
+      - {x: 769, y: -448}
+      - {x: 799, y: -448}
+    - - {x: 831, y: -435}
+      - {x: 801, y: -435}
+      - {x: 801, y: -448}
+      - {x: 831, y: -448}
+    - - {x: 768, y: -451}
+      - {x: 798, y: -451}
+      - {x: 798, y: -449}
+      - {x: 737, y: -449}
+      - {x: 737, y: -453}
+      - {x: 768, y: -453}
+    - - {x: 830, y: -449}
+      - {x: 800, y: -449}
+      - {x: 800, y: -451}
+      - {x: 830, y: -451}
+    - - {x: 158, y: -499}
+      - {x: 129, y: -499}
+      - {x: 129, y: -511}
+      - {x: 158, y: -511}
+    - - {x: 190, y: -500}
+      - {x: 161, y: -500}
+      - {x: 161, y: -511}
+      - {x: 190, y: -511}
+    - - {x: 222, y: -500}
+      - {x: 193, y: -500}
+      - {x: 193, y: -511}
+      - {x: 222, y: -511}
+    - - {x: 254, y: -500}
+      - {x: 225, y: -500}
+      - {x: 225, y: -511}
+      - {x: 254, y: -511}
+    - - {x: 160, y: -514}
+      - {x: 189, y: -514}
+      - {x: 189, y: -512}
+      - {x: 159, y: -512}
+      - {x: 159, y: -513}
+      - {x: 129, y: -513}
+      - {x: 129, y: -517}
+      - {x: 160, y: -517}
+    - - {x: 221, y: -512}
+      - {x: 191, y: -512}
+      - {x: 191, y: -514}
+      - {x: 221, y: -514}
+    - - {x: 253, y: -512}
+      - {x: 223, y: -512}
+      - {x: 223, y: -514}
+      - {x: 253, y: -514}
+    - - {x: 990, y: -563}
+      - {x: 961, y: -563}
+      - {x: 961, y: -575}
+      - {x: 990, y: -575}
+    - - {x: 671, y: -563}
+      - {x: 641, y: -563}
+      - {x: 641, y: -576}
+      - {x: 671, y: -576}
+    - - {x: 703, y: -563}
+      - {x: 673, y: -563}
+      - {x: 673, y: -576}
+      - {x: 703, y: -576}
+    - - {x: 767, y: -563}
+      - {x: 737, y: -563}
+      - {x: 737, y: -576}
+      - {x: 767, y: -576}
+    - - {x: 351, y: -563}
+      - {x: 321, y: -563}
+      - {x: 321, y: -576}
+      - {x: 351, y: -576}
+    - - {x: 383, y: -563}
+      - {x: 353, y: -563}
+      - {x: 353, y: -576}
+      - {x: 383, y: -576}
+    - - {x: 415, y: -563}
+      - {x: 385, y: -563}
+      - {x: 385, y: -576}
+      - {x: 415, y: -576}
+    - - {x: 447, y: -563}
+      - {x: 417, y: -563}
+      - {x: 417, y: -576}
+      - {x: 447, y: -576}
+    - - {x: 479, y: -563}
+      - {x: 449, y: -563}
+      - {x: 449, y: -576}
+      - {x: 479, y: -576}
+    - - {x: 543, y: -563}
+      - {x: 513, y: -563}
+      - {x: 513, y: -576}
+      - {x: 543, y: -576}
+    - - {x: 575, y: -563}
+      - {x: 545, y: -563}
+      - {x: 545, y: -576}
+      - {x: 575, y: -576}
+    - - {x: 607, y: -563}
+      - {x: 577, y: -563}
+      - {x: 577, y: -576}
+      - {x: 607, y: -576}
+    - - {x: 639, y: -563}
+      - {x: 609, y: -563}
+      - {x: 609, y: -576}
+      - {x: 639, y: -576}
+    - - {x: 287, y: -563}
+      - {x: 257, y: -563}
+      - {x: 257, y: -576}
+      - {x: 287, y: -576}
+    - - {x: 319, y: -563}
+      - {x: 289, y: -563}
+      - {x: 289, y: -576}
+      - {x: 319, y: -576}
+    - - {x: 1022, y: -564}
+      - {x: 993, y: -564}
+      - {x: 993, y: -575}
+      - {x: 1022, y: -575}
+    - - {x: 734, y: -564}
+      - {x: 705, y: -564}
+      - {x: 705, y: -575}
+      - {x: 734, y: -575}
+    - - {x: 798, y: -564}
+      - {x: 769, y: -564}
+      - {x: 769, y: -575}
+      - {x: 798, y: -575}
+    - - {x: 830, y: -564}
+      - {x: 801, y: -564}
+      - {x: 801, y: -575}
+      - {x: 830, y: -575}
+    - - {x: 510, y: -564}
+      - {x: 481, y: -564}
+      - {x: 481, y: -575}
+      - {x: 510, y: -575}
+    - - {x: 862, y: -565}
+      - {x: 833, y: -565}
+      - {x: 833, y: -575}
+      - {x: 862, y: -575}
+    - - {x: 992, y: -578}
+      - {x: 1021, y: -578}
+      - {x: 1021, y: -576}
+      - {x: 991, y: -576}
+      - {x: 991, y: -577}
+      - {x: 961, y: -577}
+      - {x: 961, y: -581}
+      - {x: 992, y: -581}
+    - - {x: 733, y: -576}
+      - {x: 703, y: -576}
+      - {x: 703, y: -578}
+      - {x: 733, y: -578}
+    - - {x: 797, y: -576}
+      - {x: 767, y: -576}
+      - {x: 767, y: -578}
+      - {x: 797, y: -578}
+    - - {x: 829, y: -576}
+      - {x: 799, y: -576}
+      - {x: 799, y: -578}
+      - {x: 829, y: -578}
+    - - {x: 863, y: -576}
+      - {x: 832, y: -576}
+      - {x: 832, y: -579}
+      - {x: 863, y: -579}
+    - - {x: 509, y: -576}
+      - {x: 479, y: -576}
+      - {x: 479, y: -578}
+      - {x: 509, y: -578}
+    - - {x: 670, y: -577}
+      - {x: 640, y: -577}
+      - {x: 640, y: -579}
+      - {x: 670, y: -579}
+    - - {x: 702, y: -577}
+      - {x: 672, y: -577}
+      - {x: 672, y: -579}
+      - {x: 702, y: -579}
+    - - {x: 766, y: -577}
+      - {x: 736, y: -577}
+      - {x: 736, y: -579}
+      - {x: 766, y: -579}
+    - - {x: 350, y: -577}
+      - {x: 320, y: -577}
+      - {x: 320, y: -579}
+      - {x: 350, y: -579}
+    - - {x: 382, y: -577}
+      - {x: 352, y: -577}
+      - {x: 352, y: -579}
+      - {x: 382, y: -579}
+    - - {x: 414, y: -577}
+      - {x: 384, y: -577}
+      - {x: 384, y: -579}
+      - {x: 414, y: -579}
+    - - {x: 446, y: -577}
+      - {x: 416, y: -577}
+      - {x: 416, y: -579}
+      - {x: 446, y: -579}
+    - - {x: 478, y: -577}
+      - {x: 448, y: -577}
+      - {x: 448, y: -579}
+      - {x: 478, y: -579}
+    - - {x: 542, y: -577}
+      - {x: 512, y: -577}
+      - {x: 512, y: -579}
+      - {x: 542, y: -579}
+    - - {x: 574, y: -577}
+      - {x: 544, y: -577}
+      - {x: 544, y: -579}
+      - {x: 574, y: -579}
+    - - {x: 606, y: -577}
+      - {x: 576, y: -577}
+      - {x: 576, y: -579}
+      - {x: 606, y: -579}
+    - - {x: 638, y: -577}
+      - {x: 608, y: -577}
+      - {x: 608, y: -579}
+      - {x: 638, y: -579}
+    - - {x: 286, y: -577}
+      - {x: 256, y: -577}
+      - {x: 256, y: -579}
+      - {x: 286, y: -579}
+    - - {x: 318, y: -577}
+      - {x: 288, y: -577}
+      - {x: 288, y: -579}
+      - {x: 318, y: -579}
+    - - {x: 30, y: -660}
+      - {x: 1, y: -660}
+      - {x: 1, y: -671}
+<<<<<<< HEAD
+=======
+>>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+      - {x: 1, y: -703}
+      - {x: 31, y: -703}
+    - - {x: 63, y: -671}
+=======
+      - {x: 30, y: -671}
+    - - {x: 62, y: -660}
+      - {x: 33, y: -660}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
+      - {x: 33, y: -671}
+      - {x: 62, y: -671}
+    - - {x: 94, y: -660}
+      - {x: 65, y: -660}
+      - {x: 65, y: -671}
+      - {x: 94, y: -671}
+    - - {x: 126, y: -661}
+      - {x: 97, y: -661}
+      - {x: 97, y: -671}
+<<<<<<< HEAD
       - {x: 97, y: -703}
       - {x: 127, y: -703}
 <<<<<<< HEAD
@@ -5294,6 +7103,36 @@ BoxCollider2D:
 <<<<<<< HEAD
   m_Size: {x: 42.6667, y: 812}
   m_EdgeRadius: 0
+=======
+      - {x: 126, y: -671}
+    - - {x: 29, y: -672}
+      - {x: -1, y: -672}
+      - {x: -1, y: -674}
+      - {x: 29, y: -674}
+    - - {x: 61, y: -672}
+      - {x: 31, y: -672}
+      - {x: 31, y: -674}
+      - {x: 61, y: -674}
+    - - {x: 93, y: -672}
+      - {x: 63, y: -672}
+      - {x: 63, y: -674}
+      - {x: 93, y: -674}
+    - - {x: 127, y: -672}
+      - {x: 96, y: -672}
+      - {x: 96, y: -675}
+      - {x: 127, y: -675}
+--- !u!114 &114008457926251132
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1648137549834380}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 --- !u!114 &114031483318234814
 =======
   m_Size: {x: 26.6667, y: 776}
@@ -5312,26 +7151,37 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
   Offset: {x: 0, y: 0}
+<<<<<<< HEAD
 --- !u!114 &114053605473022120
 =======
 --- !u!114 &114031711047412578
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114074555336145722
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1670047293502408}
 =======
   m_GameObject: {fileID: 1681024829983976}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1089018807499716}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 74efee4889073914b8ae070d65688ce4, type: 3}
+  m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   InitialOpacity: 1
 <<<<<<< HEAD
+=======
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 --- !u!114 &114087611034750538
 =======
 --- !u!114 &114048280639310352
@@ -5347,6 +7197,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Offset: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &114109484014790852
 MonoBehaviour:
@@ -5372,6 +7223,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   InitialOpacity: 1
+=======
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 --- !u!114 &114121622384122782
 =======
 --- !u!114 &114051249158419242
@@ -5388,6 +7241,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
   Offset: {x: 0, y: 0}
+<<<<<<< HEAD
 --- !u!114 &114141095045113374
 MonoBehaviour:
   m_ObjectHideFlags: 1
@@ -5410,15 +7264,22 @@ MonoBehaviour:
   InitialOpacity: 1
 --- !u!114 &114069893098529476
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114122619008733276
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1679943936792312}
 =======
   m_GameObject: {fileID: 1576506543136292}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1364489836070118}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
@@ -5426,21 +7287,30 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
   InitialOpacity: 1
+<<<<<<< HEAD
 --- !u!114 &114180562377317106
 =======
 --- !u!114 &114194915456114206
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114186164574954518
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1679943936792312}
+=======
+  m_GameObject: {fileID: 1287703542420792}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
+  m_Script: {fileID: 11500000, guid: 36f478cbe2fdbeb43a1a2ec45e99ca69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 --- !u!114 &114186164574954518
 =======
   m_GameObject: {fileID: 1045449321514026}
@@ -5457,18 +7327,25 @@ MonoBehaviour:
   TmxRotation: 0
 --- !u!114 &114222344607644322
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  Offset: {x: 0, y: 0}
+--- !u!114 &114217967136501254
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1287703542420792}
+=======
+  m_GameObject: {fileID: 1068003027441788}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 36f478cbe2fdbeb43a1a2ec45e99ca69, type: 3}
+  m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Offset: {x: 0, y: 0}
 --- !u!114 &114223798664728930
 =======
   m_GameObject: {fileID: 1170296803278592}
@@ -5509,6 +7386,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
   Offset: {x: 0, y: 0}
+<<<<<<< HEAD
 --- !u!114 &114313321861007734
 =======
 --- !u!114 &114309882008241566
@@ -5525,16 +7403,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!114 &114314178033617458
+=======
+--- !u!114 &114303844837291390
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
-  m_GameObject: {fileID: 1871790253332322}
+  m_GameObject: {fileID: 1524803156176550}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
+  m_Script: {fileID: 11500000, guid: 74efee4889073914b8ae070d65688ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 --- !u!114 &114318182234327634
 =======
   m_GameObject: {fileID: 1464639789059662}
@@ -5546,15 +7428,23 @@ MonoBehaviour:
   Offset: {x: 0, y: 0}
 --- !u!114 &114347689129477242
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  InitialOpacity: 1
+--- !u!114 &114307819862642280
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1566519915279974}
 =======
   m_GameObject: {fileID: 1572493932461424}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1656157799445842}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 36f478cbe2fdbeb43a1a2ec45e99ca69, type: 3}
@@ -5562,20 +7452,28 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
   InitialOpacity: 1
+<<<<<<< HEAD
 --- !u!114 &114327266479942642
 =======
   Offset: {x: 0, y: 0}
 --- !u!114 &114349818533892802
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114392226623812014
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1804514641702838}
 =======
   m_GameObject: {fileID: 1355675350090394}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1465654116489608}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 36f478cbe2fdbeb43a1a2ec45e99ca69, type: 3}
@@ -5607,6 +7505,7 @@ MonoBehaviour:
   MapHeightInPixels: 768
   BackgroundColor: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &114447830351318278
 =======
 --- !u!114 &114413277712140240
@@ -5630,17 +7529,25 @@ MonoBehaviour:
 =======
 --- !u!114 &114436903160164406
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114442318854896926
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1161435968513592}
+=======
+  m_GameObject: {fileID: 1403160146109516}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
+  m_Script: {fileID: 11500000, guid: 74efee4889073914b8ae070d65688ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 --- !u!114 &114611926900686220
 =======
   m_GameObject: {fileID: 1099846095433878}
@@ -5669,15 +7576,23 @@ MonoBehaviour:
   TmxRotation: 0
 --- !u!114 &114492172707377210
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  InitialOpacity: 1
+--- !u!114 &114467932866457644
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1187151397529972}
 =======
   m_GameObject: {fileID: 1900401731004224}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1068003027441788}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 74efee4889073914b8ae070d65688ce4, type: 3}
@@ -5685,24 +7600,33 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   InitialOpacity: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &114621822026217558
 =======
 --- !u!114 &114500477684402492
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114540233734429532
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1478442482138240}
 =======
   m_GameObject: {fileID: 1876120745599290}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1524803156176550}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
+  m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
   TmxId: 15
   TmxName: 
@@ -5755,39 +7679,55 @@ MonoBehaviour:
   InitialOpacity: 1
 --- !u!114 &114622952120257804
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114572589227008486
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1148301378822106}
 =======
   m_GameObject: {fileID: 1242214527514018}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1218440152784162}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &114708358259127780
 =======
 --- !u!114 &114642700222653226
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114579182833390206
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1350665940094814}
 =======
   m_GameObject: {fileID: 1064207376753702}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1656157799445842}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
+  m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
   TmxId: 16
   TmxName: 
@@ -5795,6 +7735,8 @@ MonoBehaviour:
   TmxPosition: {x: -29.3333, y: -29.3333}
   TmxSize: {x: 1081.33, y: 44}
   TmxRotation: 0
+=======
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 --- !u!114 &114730567740763386
 =======
 --- !u!114 &114648047214542074
@@ -5811,6 +7753,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
   Offset: {x: 0, y: 0}
+<<<<<<< HEAD
 --- !u!114 &114797568844308474
 =======
   InitialOpacity: 1
@@ -5836,17 +7779,25 @@ MonoBehaviour:
   InitialOpacity: 1
 --- !u!114 &114772547800985072
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114734509005105238
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1564025308800066}
+=======
+  m_GameObject: {fileID: 1089018807499716}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: b4529e6d50e7df746bb0157362724759, type: 3}
+  m_Script: {fileID: 11500000, guid: 74efee4889073914b8ae070d65688ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   Offset: {x: 0, y: 0}
   Color: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
 --- !u!114 &114851001201229832
@@ -5860,15 +7811,23 @@ MonoBehaviour:
   Offset: {x: 0, y: 0}
 --- !u!114 &114775402203806574
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  InitialOpacity: 1
+--- !u!114 &114745013971549068
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1871790253332322}
 =======
   m_GameObject: {fileID: 1576506543136292}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1648137549834380}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 74efee4889073914b8ae070d65688ce4, type: 3}
@@ -5876,24 +7835,33 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   InitialOpacity: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &114868399790854948
 =======
 --- !u!114 &114863030569564236
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114824129929694164
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1523625216897802}
 =======
   m_GameObject: {fileID: 1486473734851732}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1364489836070118}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a425cb3219d4ebb4796b8e4968d45732, type: 3}
+  m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
   TmxId: 17
   TmxName: 
@@ -5905,21 +7873,32 @@ MonoBehaviour:
 =======
 --- !u!114 &114875656866318008
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114854497399592242
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1670047293502408}
 =======
   m_GameObject: {fileID: 1876120745599290}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1218440152784162}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
+  m_Script: {fileID: 11500000, guid: 74efee4889073914b8ae070d65688ce4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+  InitialOpacity: 1
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 --- !u!114 &114899937588493764
 =======
   InitialOpacity: 1
@@ -5937,44 +7916,61 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Offset: {x: 0, y: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &114963322852319770
 =======
 --- !u!114 &114930554334910332
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114934005203874648
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1860200030567658}
 =======
   m_GameObject: {fileID: 1998586343478500}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1465654116489608}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 36f478cbe2fdbeb43a1a2ec45e99ca69, type: 3}
+  m_Script: {fileID: 11500000, guid: 1874989c5e2da094ea00112c6a895694, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
   Offset: {x: 0, y: 0}
 --- !u!114 &114972029690717928
 =======
 --- !u!114 &114959702153451666
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114946265389768152
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1187151397529972}
 =======
   m_GameObject: {fileID: 1466582327254312}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1403160146109516}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: b4529e6d50e7df746bb0157362724759, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &114990885329888712
 =======
@@ -5982,18 +7978,25 @@ MonoBehaviour:
   Color: {r: 0.5019608, g: 0.5019608, b: 0.5019608, a: 1}
 --- !u!114 &114971143091257746
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+--- !u!114 &114963322852319770
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
 MonoBehaviour:
   m_ObjectHideFlags: 1
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 100100000}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_GameObject: {fileID: 1148301378822106}
 =======
   m_GameObject: {fileID: 1149372832695120}
 >>>>>>> 1f03b06abdccc5935954d322f3b4c0919ec557cf
+=======
+  m_GameObject: {fileID: 1860200030567658}
+>>>>>>> parent of 5578202... Changed Map, Implemented basic version of trap (needs timer)
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 74efee4889073914b8ae070d65688ce4, type: 3}
+  m_Script: {fileID: 11500000, guid: 36f478cbe2fdbeb43a1a2ec45e99ca69, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  InitialOpacity: 1
+  Offset: {x: 0, y: 0}
