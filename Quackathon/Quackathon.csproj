@@ -194,6 +194,7 @@
     <Compile Include="Assets\AstarPathfindingProject\Utilities\RetainedGizmos.cs" />
     <Compile Include="Assets\AstarPathfindingProject\Utilities\UnityReferenceHelper.cs" />
     <Compile Include="Assets\Scripts\Librarian.cs" />
+    <Compile Include="Assets\Scripts\NoiseLevel.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\ShelfTrapLeft.cs" />
     <Compile Include="Assets\Scripts\VoiceInput.cs" />
