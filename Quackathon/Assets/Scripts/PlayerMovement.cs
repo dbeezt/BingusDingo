@@ -4,8 +4,8 @@ using UnityEngine;
 
 public class PlayerMovement : MonoBehaviour {
 
-    public float moveSpeed;
-    public float move1, move2;
+    public float rotationSpeed, moveSpeed;
+    public float rotate, push;
 
     private Rigidbody2D body2D;
     private VoiceInput[] inputs;
@@ -20,19 +20,15 @@ public class PlayerMovement : MonoBehaviour {
 	}
 	
 	void FixedUpdate () {
-        move1 = inputs[0].reMapVal;
-        move2 = inputs[1].reMapVal;
+        rotate= inputs[0].reMapVal;
+        push = inputs[1].reMapVal;
 
-        if (move1 != 0) {
+        if (rotate != 0) {
             // var up = new Vector2(transform.up.x, transform.up.y);
-            body2D.AddTorque(move1 * moveSpeed);
+            body2D.AddTorque(rotate * moveSpeed);
         }
-        if (move2 != 0) {
-            body2D.AddTorque(-move2 * moveSpeed);
-        }
-
-        if (move1 != 0 && move2 != 0) {
-            body2D.AddRelativeForce(new Vector2(moveSpeed, 0), ForceMode2D.Force);
+        if (push != 0) {
+            body2D.AddRelativeForce(new Vector2(push * moveSpeed, 0), ForceMode2D.Force);
         }
     }
 }
