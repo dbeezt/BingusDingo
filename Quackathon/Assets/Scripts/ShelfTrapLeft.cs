@@ -7,9 +7,9 @@ public class ShelfTrapLeft : MonoBehaviour {
     GameObject trap;
     public float speed = 10f;
     public Vector2 moveRange;
-    public float timer = 5f;
-    public float timerWait = 0f;
+    public float timerWait;
 
+    private float timer;
     private float position;
     private Rigidbody2D rb2d;
     private bool moveLeft = true;
@@ -21,6 +21,7 @@ public class ShelfTrapLeft : MonoBehaviour {
     
     // Use this for initialization
 	void Start () {
+        timer = timerWait;
         trap = GetComponent<GameObject>();
         updateVelocity(-speed);
 	}
@@ -31,24 +32,19 @@ public class ShelfTrapLeft : MonoBehaviour {
 
         if (moveLeft && position <= moveRange.y)
         {
-            timer -= Time.deltaTime;
-            if (timer <= 0f)
-            {
-                moveLeft = false;
-                updateVelocity(speed);
-                timer = 5f;
-            }
-
-            
+            moveLeft = false;
+            updateVelocity(speed); 
         }
         else if (!moveLeft && position >= moveRange.x)
         {
-            // wait for x seconds
-
-            
+            updateVelocity(0);
+            timer -= Time.deltaTime;
+            if (timer <= 0f)
+            {
                 moveLeft = true;
                 updateVelocity(-speed);
-            
+                timer = timerWait;
+            }   
         }
     }
 
