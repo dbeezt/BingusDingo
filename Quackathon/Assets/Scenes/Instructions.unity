@@ -278,16 +278,16 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1000519476}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -13, y: 25, z: 0}
+  m_LocalPosition: {x: 19.587036, y: 0.042007446, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1496352965}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -13, y: 25}
-  m_SizeDelta: {x: 805.1, y: 352.3}
+  m_AnchorMin: {x: 0.119389534, y: 0.24172728}
+  m_AnchorMax: {x: 0.92700005, y: 0.7976695}
+  m_AnchoredPosition: {x: -2.9814987, y: -9.492004}
+  m_SizeDelta: {x: 19.099976, y: 107.79999}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1000519478
 MonoBehaviour:
@@ -310,18 +310,21 @@ MonoBehaviour:
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
   m_FontData:
     m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 40
+    m_FontSize: 32
     m_FontStyle: 0
     m_BestFit: 0
-    m_MinSize: 4
+    m_MinSize: 3
     m_MaxSize: 40
-    m_Alignment: 0
+    m_Alignment: 3
     m_AlignByGeometry: 0
     m_RichText: 1
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\n\u2022 work it out for yaself"
+  m_Text: "\u2022 Both players control the character using their voices\n\u2022 Player
+    1 rotates the left side\n\u2022 Player 2 rotates the right side\n\u2022 Players
+    can use their voices together to move forward\n\u2022 Don't be too loud or else
+    the librarian will shout at you \n\u2022 You have 3 chances, try to be quiet"
 --- !u!222 &1000519479
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -451,7 +454,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1496352961}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 449, y: 252.5, z: 0}
+  m_LocalPosition: {x: 486.5, y: 242, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 725059525}
@@ -644,7 +647,7 @@ RectTransform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1905351489}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -0.000015258789, y: 195.5, z: 0}
+  m_LocalPosition: {x: -0.000015258789, y: 185, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 1496352965}
