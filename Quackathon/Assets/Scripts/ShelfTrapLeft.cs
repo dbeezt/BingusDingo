@@ -32,19 +32,20 @@ public class ShelfTrapLeft : MonoBehaviour {
 
         if (moveLeft && position <= moveRange.y)
         {
-            moveLeft = false;
-            updateVelocity(speed); 
-        }
-        else if (!moveLeft && position >= moveRange.x)
-        {
             updateVelocity(0);
             timer -= Time.deltaTime;
             if (timer <= 0f)
             {
-                moveLeft = true;
-                updateVelocity(-speed);
+                moveLeft = false;
+                updateVelocity(speed);
                 timer = timerWait;
-            }   
+            }
+        }
+        else if (!moveLeft && position >= moveRange.x)
+        {
+            moveLeft = true;
+            updateVelocity(-speed);
+ 
         }
     }
 
