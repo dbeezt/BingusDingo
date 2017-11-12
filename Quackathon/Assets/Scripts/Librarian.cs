@@ -1,6 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public enum States
 {
@@ -12,7 +13,6 @@ public enum States
 
 public class Librarian : MonoBehaviour
 {
-
     AIPath aipath;
     GameObject chair;
     GameObject player;
@@ -24,18 +24,26 @@ public class Librarian : MonoBehaviour
     public float volume_weight = 1.2f;
     public float distance_weight = 0.5f;
 
+    private GameObject endScreen;
+    private Text endText;
 
     float running = 150f;
     float walking = 75f;
 
-    void Start()
+    void Awake()
     {
         this.aipath = this.GetComponent<AIPath>();
         this.player = GameObject.FindGameObjectWithTag("Player");
         Debug.Log(this.player.GetComponents<VoiceInput>()[0].ToString());
         Debug.Log(this.player.GetComponents<VoiceInput>()[1].ToString());
         this.chair = GameObject.FindGameObjectWithTag("Chair");
+        endScreen = GameObject.Find("lose");
+        endText = GameObject.Find("loseTxt").GetComponent<Text>();
+        endScreen.SetActive(false);
+    }
 
+    void Start()
+    {
         this.canChase = true;
     }
 
@@ -61,6 +69,7 @@ public class Librarian : MonoBehaviour
                 Debug.Log("Reached Player");
                 if (catches == 3)
                 {
+                    endScreen.SetActive(true);
                     Time.timeScale = 0;
                 }
                 StartCoroutine(waitThenReturn());
