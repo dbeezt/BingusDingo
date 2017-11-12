@@ -4878,6 +4878,10 @@ Prefab:
       propertyPath: m_Radius
       value: 20
       objectReference: {fileID: 0}
+    - target: {fileID: 1769873393893572, guid: 113880c163af8064a89c1bc821cd1541, type: 2}
+      propertyPath: m_TagString
+      value: Untagged
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 113880c163af8064a89c1bc821cd1541, type: 2}
   m_IsPrefabParent: 0
