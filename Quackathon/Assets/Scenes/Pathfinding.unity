@@ -1358,7 +1358,7 @@ GameObject:
   - component: {fileID: 234927689}
   - component: {fileID: 234927691}
   m_Layer: 5
-  m_Name: overTxt
+  m_Name: winTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5205,7 +5205,7 @@ GameObject:
   - component: {fileID: 1786156442}
   - component: {fileID: 1786156441}
   m_Layer: 5
-  m_Name: overTxt
+  m_Name: loseTxt
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
