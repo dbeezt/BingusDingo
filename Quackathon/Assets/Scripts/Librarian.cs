@@ -23,15 +23,24 @@ public class Librarian : MonoBehaviour
     public float threshold = 2f;
     public float volume_weight = 1.2f;
     public float distance_weight = 0.5f;
+    public float distance_from_sound = 5f;
 
+    private GameObject soundLocation;
     private GameObject endScreen;
     private Text endText;
+    private textZoom warning;
+    private Text warningText;
 
     float running = 150f;
     float walking = 75f;
 
     void Awake()
     {
+        var warningGO = GameObject.Find("warningTxt");
+        warning = warningGO.GetComponent<textZoom>();
+        warningText = warningGO.GetComponent<Text>();
+        soundLocation = new GameObject();
+        soundLocation.AddComponent<Transform>();
         this.aipath = this.GetComponent<AIPath>();
         this.player = GameObject.FindGameObjectWithTag("Player");
         Debug.Log(this.player.GetComponents<VoiceInput>()[0].ToString());
@@ -54,7 +63,8 @@ public class Librarian : MonoBehaviour
         if ((Input.GetKeyDown(KeyCode.Space) || activated()) && canChase)
         {
             state = States.chasing;
-            this.aipath.target = this.player.transform;
+            soundLocation.transform.position = player.transform.position;
+            this.aipath.target = this.soundLocation.transform;
             this.aipath.speed = this.running + (this.catches * 25f);
         }
 
@@ -67,15 +77,10 @@ public class Librarian : MonoBehaviour
                 break;
             case States.at_player:
                 Debug.Log("Reached Player");
-                if (catches == 3)
-                {
-                    endScreen.SetActive(true);
-                    Time.timeScale = 0;
-                }
                 StartCoroutine(waitThenReturn());
                 break;
             case States.chasing:
-                if (this.aipath.TargetReached && this.aipath.target == player.transform)
+                if (this.aipath.TargetReached)
                 {
                     state = States.at_player;
                 }
@@ -83,7 +88,7 @@ public class Librarian : MonoBehaviour
             case States.returning:
                 this.aipath.target = this.chair.transform;
                 this.aipath.speed = this.walking;
-                if (this.aipath.TargetReached && this.aipath.target == chair.transform)
+                if (this.aipath.TargetReached)
                 {
                     state = States.at_chair;
                 }
@@ -107,15 +112,23 @@ public class Librarian : MonoBehaviour
         this.aipath.target = this.chair.transform;
         this.aipath.speed = this.walking;
         this.canChase = false;
-        yield return new WaitForSeconds(1);
+        yield return new WaitForSeconds(2);
         this.canChase = true;
         state = States.returning;
     }
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        if (collision.gameObject.tag == "Player")
+        if ((collision.gameObject.tag == "Player" && activated()) || (collision.gameObject.tag == "Player" && Vector2.Distance(collision.gameObject.transform.position,soundLocation.transform.position) < distance_from_sound))
         {
+            if (catches == 2)
+            {
+                endScreen.SetActive(true);
+                Time.timeScale = 0;
+                warningText.text = "";
+            }
+            warningText.text += "I";
+            warning.active = true;
             catches++;
         }
     }
