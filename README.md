@@ -1,8 +1,15 @@
-# BingusDingo
-DUCS Quackathon 2017
+# DUCS Quackathon 🦆
 
-https://bingusdingo.slack.com/
+A Unity based cooperative game based around microphone input.
 
-Awarded Best Overall
+By Daniel Brereton, Daniel Kinnaird, Rory Magowan, and James Neill  
 
-Awarded 2nd Prize Cooper Software Challenge
+## Be Quiet! 📔
+
+Challenged with making a game with only microphone input, 'Be Quiet!' is a Unity based cooperative game for two players, challenged with navigating through a library without alerting the Librarian.
+
+# Awards 🏆
+
+🥇 1st Overall
+
+🥈 2nd Cooper Software Challenge
